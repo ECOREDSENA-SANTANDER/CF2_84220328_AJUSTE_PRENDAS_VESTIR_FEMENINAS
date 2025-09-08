@@ -16,7 +16,7 @@
       .col-lg-4.col-md-8.mb-4.mb-lg-0
         img(src='@/assets/curso/temas/t2/2.png', alt='')
       .col-lg-5
-        p.mb-0 Las tijeras de confección y los cortahílos, junto con los tapetes de corte, aseguran cortes limpios y consistentes, condición imprescindible para que las piezas encajen sin fricción ni arrugas durante el ensamblaje. De igual manera, el uso de agujas apropiadas y prensatelas específicos —desde pies universales hasta soluciones diseñadas para tejidos elásticos o materiales pesados— permite controlar la presión sobre la tela y el desplazamiento del hilo, evitando deslizamientos indeseados y garantizando costuras uniformes. En el ajuste de prendas femeninas, donde los contornos resultan más delicados, esta precisión es clave para lograr un resultado cómodo, estético y técnicamente correcto.
+        p.mb-0 Las tijeras de confección y los cortahílos, junto con los tapetes de corte, aseguran cortes limpios y consistentes, condición imprescindible para que las piezas encajen sin fricción ni arrugas durante el ensamblaje. De igual manera, el uso de agujas apropiadas y prensatelas específicos (desde pies universales hasta soluciones diseñadas para tejidos elásticos o materiales pesados), permite controlar la presión sobre la tela y el desplazamiento del hilo, evitando deslizamientos indeseados y garantizando costuras uniformes. En el ajuste de prendas femeninas, donde los contornos resultan más delicados, esta precisión es clave para lograr un resultado cómodo, estético y técnicamente correcto.
       .col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/temas/t2/3.svg', alt='')
 
@@ -53,7 +53,8 @@
                     span Set de reglas
                   figure
                     img(src='@/assets/curso/temas/t2/fig14.png', alt='Conjunto de reglas de trazo especializadas para patronaje, con formas curvas, rectas y combinadas. Cada una tiene perforaciones de diferentes tamaños y escalas numéricas distribuidas a lo largo de sus bordes.')
-                  figcaption Fuente: https://n9.cl/simnm 
+                  figcaption Fuente: 
+                    a(href="https://n9.cl/simnm" target="_blank") https://n9.cl/simnm 
               .row.justify-content-around.align-items-center
                 .col-lg-5.col-md-11
                   h4 Ruleta de marcar
@@ -64,7 +65,8 @@
                     span Ruleta de marcar
                   figure
                     img(src='@/assets/curso/temas/t2/fig15.png', alt='Herramienta de trazo con mango de madera y rueda metálica dentada, utilizada para transferir marcas o líneas sobre tela o papel.')
-                  figcaption Fuente: https://escueladeindumentaria.com/ruleta-de-costura-que-es-y-para-que-se-utiliza/ 
+                  figcaption Fuente: 
+                    a(href="https://escueladeindumentaria.com/ruleta-de-costura-que-es-y-para-que-se-utiliza/" target="_blank") https://escueladeindumentaria.com/ruleta-de-costura-que-es-y-para-que-se-utiliza/ 
               .row.justify-content-around.align-items-center
                 .col-lg-5.col-md-11
                   h4 Tiza y lápices de sastre
@@ -75,7 +77,8 @@
                     span Tiza para marcar
                   figure.mb-2
                     img(src='@/assets/curso/temas/t2/fig16.png', alt='Manos realizando una línea sobre tela con ayuda de una regla y una pieza de tiza de sastre, herramienta usada para marcar patrones y líneas de corte en confección.')
-                  figcaption Fuente: https://n9.cl/x34s6j
+                  figcaption Fuente: 
+                    a(href="https://n9.cl/x34s6j" target="_blank") https://n9.cl/x34s6j
 
 
     Separador
@@ -100,7 +103,8 @@
                     span Tijeras de corte
                   figure.mb-2
                     img(src='@/assets/curso/temas/t2/fig17.png', alt='Tres tijeras de sastre con mangos grandes y hojas alargadas están dispuestas sobre una superficie plana, acompañadas por hilos enrollados en carretes de madera, utilizados en trabajos de confección.')
-                  figcaption Fuente: https://n9.cl/21hyxb  
+                  figcaption Fuente: 
+                    a(href="https://n9.cl/21hyxb" target="_blank") https://n9.cl/21hyxb  
               .row.justify-content-center.align-items-center(titulo="Tijeras de precisión y bordes")
                 .col-md-6.col-lg-5
                   h4 Tijeras de precisión y bordes
@@ -111,7 +115,8 @@
                     span Tijeras de precisión
                   figure.mb-2
                     img(src='@/assets/curso/temas/t2/fig18.png', alt='Tijera pequeña con hojas delgadas y punta fina, diseñada para cortes precisos en labores detalladas de confección o bordado.')
-                  figcaption Fuente: https://www.marialunarillos.com/4408-tijeras-de-precision.html  
+                  figcaption Fuente: 
+                    a(href="https://www.marialunarillos.com/4408-tijeras-de-precision.html" target="_blank") https://www.marialunarillos.com/4408-tijeras-de-precision.html  
               .row.justify-content-center.align-items-center(titulo="Cortahilos y cúter de tela")
                 .col-md-6.col-lg-5
                   h4 Cortahilos y cúter de tela
@@ -122,7 +127,8 @@
                     span Cúter de tela
                   figure.mb-2
                     img(src='@/assets/curso/temas/t2/fig19.png', alt='Herramienta de corte manual con forma compacta y hojas afiladas, acompañada por varias bobinas de hilo dispuestas sobre una superficie de tejido.')
-                  figcaption Fuente: https://n9.cl/x4cpmi 
+                  figcaption Fuente: 
+                    a(href="https://n9.cl/x4cpmi" target="_blank") https://n9.cl/x4cpmi 
               .row.justify-content-center.align-items-center(titulo="Tapete de corte")
                 .col-md-6.col-lg-5
                   h4 Tapete de corte
@@ -133,7 +139,8 @@
                     span Tapete verde de corte
                   figure.mb-2
                     img(src='@/assets/curso/temas/t2/fig20.png', alt='Superficie de corte con cuadrícula sobre la que se encuentran distribuidos diversos materiales de papelería, incluyendo papeles de colores, tijeras, lápices, regla metálica, borrador, cutter y otros utensilios, mientras dos manos trazan una línea con lápiz sobre una hoja sostenida.')
-                  figcaption Fuente: https://n9.cl/3pzp4 
+                  figcaption Fuente: 
+                    a(href="https://n9.cl/3pzp4" target="_blank") https://n9.cl/3pzp4 
               
 
 
@@ -161,7 +168,8 @@
                     span Alfileres y agujas de mano
                   figure.mb-2
                     img(src='@/assets/curso/temas/t2/fig21.png', alt='Conjunto de elementos punzantes utilizados en costura que incluyen alfileres con cabeza esférica, agrupados sueltos y en una rueda organizadora; imperdibles metálicos en diferentes posiciones; y agujas enhebradas con hilo distribuidas de manera vertical.')
-                  figcaption Fuente: https://n9.cl/7araj 
+                  figcaption Fuente: 
+                    a(href="https://n9.cl/7araj" target="_blank") https://n9.cl/7araj 
               .row.justify-content-center.align-items-center(titulo="")
                 .col-md-11.col-lg-6
                   h4 Prensatelas y pies de máquina
@@ -172,7 +180,8 @@
                     span Pie de máquina
                   figure.mb-2
                     img.w-50(src='@/assets/curso/temas/t2/fig22.png', alt='Pieza metálica ubicada debajo de la aguja de una máquina de coser, compuesta por un prensatelas con abertura central por donde pasa el hilo, una ranura guía y tornillo ajustable en la parte superior para controlar la presión.')
-                  figcaption Fuente: https://n9.cl/d8i6p 
+                  figcaption Fuente: 
+                    a(href="https://n9.cl/d8i6p" target="_blank") https://n9.cl/d8i6p 
               .row.justify-content-center.align-items-center(titulo="")
                 .col-md-11.col-lg-5
                   h4 Dedal y retorcedor de hilo
@@ -183,7 +192,8 @@
                     span Descosedor
                   figure.mb-3
                     img(src='@/assets/curso/temas/t2/fig23.png', alt='Herramienta manual con mango alargado y punta metálica curva en forma de horquilla, utilizada para abrir costuras o retirar hilos sin dañar la tela.')
-                  figcaption Fuente: https://n9.cl/05u6p
+                  figcaption Fuente: 
+                    a(href="https://n9.cl/05u6p" target="_blank") https://n9.cl/05u6p
 
 
     Separador
@@ -208,7 +218,8 @@
                     span Tabla de planchar y plancha
                   figure.mb-2
                     img(src='@/assets/curso/temas/t2/fig24.png', alt='Se expone una tabla con soporte en forma de cruz y superficie acolchada, sobre la cual se apoya una prenda extendida; encima hay un dispositivo de planchado con cable y salida de vapor.')
-                  figcaption Fuente: https://n9.cl/7araj 
+                  figcaption Fuente: 
+                    a(href="https://n9.cl/a6uata" target="_blank") https://n9.cl/a6uata 
               .row.justify-content-center.align-items-center(titulo="")
                 .col-md-6.col-lg-5
                   h4 Manivelas de ojales y punzones
@@ -219,7 +230,8 @@
                     span Punzón
                   figure.mb-2
                     img(src='@/assets/curso/temas/t2/fig25.png', alt='Herramienta compuesta por un mango ergonómico de madera y una punta metálica afilada; se emplea para perforar o marcar con precisión materiales como tela o cuero.')
-                  figcaption Fuente: https://wuto.com/wp-content/uploads/7701_PUNZON_1.webp 
+                  figcaption Fuente: 
+                    a(href="https://wuto.com/wp-content/uploads/7701_PUNZON_1.webp" target="_blank") https://wuto.com/wp-content/uploads/7701_PUNZON_1.webp 
               .row.justify-content-center.align-items-center(titulo="")
                 .col-md-6.col-lg-5
                   h4 Cepillos y rodillos quitapelusas
@@ -230,7 +242,8 @@
                     span Rodillo quitapelusas
                   figure.mb-2
                     img(src='@/assets/curso/temas/t2/fig26.png', alt='Una persona utiliza un rodillo adhesivo de mango corto sobre una prenda extendida, realizando movimientos lineales para retirar partículas o pelusas de la superficie del tejido.')
-                  figcaption Fuente: https://n9.cl/tdvms 
+                  figcaption Fuente: 
+                    a(href="https://n9.cl/tdvms" target="_blank") https://n9.cl/tdvms 
 
 
 

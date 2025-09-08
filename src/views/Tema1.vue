@@ -34,13 +34,13 @@
               span.mb-0 Diseñadas para materiales de gran espesor (cuero, lona, #[em jean] pesado).
             li
               i.far.fa-circle
-              span.mb-0 Velocidad de puntada: 4000 – 6000 ppm (puntadas por minuto).
+              span.mb-0 Velocidad de puntada: 4000 - 6000 ppm (puntadas por minuto).
             li
               i.far.fa-circle
-              span.mb-0 Motores de 1000 – 1500 W, refuerzos de estructura y biela robusta.
+              span.mb-0 Motores de 1000 - 1500 W, refuerzos de estructura y biela robusta.
             li
               i.far.fa-circle
-              span.mb-0 #[strong Ejemplos:] máquina de doble pespunte para #[em jeans], máquina de cadeneta industrial.
+              span.mb-0 Ejemplos: máquina de doble pespunte para #[em jeans], máquina de cadeneta industrial.
       .col-lg-4.col-md-6.mb-3
         .tarjeta.tarjeta-btn.p-4.h-100
           img.mb-3(src='@/assets/curso/temas/t1/tarj1-2.svg', alt='')
@@ -52,13 +52,13 @@
               span.mb-0 Adecuadas para tejidos de grosor medio (algodón, mezclilla ligera, sintéticos).
             li
               i.far.fa-circle
-              span.mb-0 Velocidad de puntada: 3000 – 4000 ppm.
+              span.mb-0 Velocidad de puntada: 3000 - 4000 ppm.
             li
               i.far.fa-circle
-              span.mb-0 Motores de 500 – 1000 W, componentes equilibrados para versatilidad.
+              span.mb-0 Motores de 500 - 1000 W, componentes equilibrados para versatilidad.
             li
               i.far.fa-circle
-              span.mb-0 #[strong Ejemplos:] máquina plana de ciclo automático, #[em overlock] de 4 hilos.
+              span.mb-0 Ejemplos: máquina plana de ciclo automático, #[em overlock] de 4 hilos.
       .col-lg-4.col-md-6.mb-3
         .tarjeta.tarjeta-btn.p-4.h-100
           img.mb-3(src='@/assets/curso/temas/t1/tarj1-3.svg', alt='')
@@ -70,13 +70,13 @@
               span.mb-0 Indicadas para telas finas y delicadas (seda, gasa, encaje).
             li
               i.far.fa-circle
-              span.mb-0 Velocidad de puntada: 1500 – 3000 ppm.
+              span.mb-0 Velocidad de puntada: 1500 - 3000 ppm.
             li
               i.far.fa-circle
-              span.mb-0 Motores de 200 – 500 W, construcción ligera y de bajo ruido.
+              span.mb-0 Motores de 200 - 500 W, construcción ligera y de bajo ruido.
             li
               i.far.fa-circle
-              span.mb-0 #[strong Ejemplos:] fileteadora doméstica, máquina de sobrehilado de 3 hilos.
+              span.mb-0 Ejemplos: fileteadora doméstica, máquina de sobrehilado de 3 hilos.
 
     .bg-8.tarjeta.mb-4(data-aos="fade")
       .row.justify-content-center
@@ -153,7 +153,7 @@
             tbody
               tr
                 td Velocidad
-                td Muy baja (500 – 1000 rpm), ideal para trabajos de detalle y control de costura.
+                td Muy baja (500 - 1000 rpm), ideal para trabajos de detalle y control de costura.
               tr
                 td Potencia
                 td Muy baja, suficiente para telas de grosor ligero a medio.
@@ -198,7 +198,7 @@
       .col-lg-8(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
           h5 Tabla 2.
-          span Características de una máquina familiar.
+          span Características de una máquina semiindustrial
         .tabla-a.color-acento-contenido
           table(alt="Tabla con dos columnas. La primera enumera características de una máquina semiindustrial: velocidad, potencia, lubricación, diversidad de puntadas y ámbito de uso. La segunda describe cada una, señalando que la máquina opera a una velocidad intermedia, tiene potencia media para coser varias capas, utiliza lubricación manual o automática, realiza puntadas básicas y es adecuada para talleres con producción moderada.")
             caption Fuente: SENA, (2025)
@@ -252,7 +252,7 @@
       .col-lg-8(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
           h5 Tabla 3.
-          span Características de una máquina familiar.
+          span Características de una máquina industrial
         .tabla-a.color-acento-contenido
           table(alt="Tabla con dos columnas. La primera presenta características de máquinas industriales: velocidad, potencia, lubricación, tipos de máquinas y ámbito de uso. La segunda columna especifica que operan a velocidades muy altas, tienen gran potencia, usan sistemas de lubricación automática y ofrecen variedad de funciones especializadas.")
             caption Fuente: SENA, (2025)
@@ -534,6 +534,14 @@
 
     .row.justify-content-center.cursor-pointer.mb-5
       .col-lg-6.col-md-10.col-12.mb-4.mb-lg-0(data-aos="fade-right")
+        .crd_hover_txt.tarjeta
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/temas/t1/tarj3-2.png", alt="")
+          .crd_hover_txt--body.text-center
+            h4.mb-3 Configuración de agujas
+            p.mb-0 Distingue entre máquinas de una sola aguja y de dos o más agujas, lo cual afecta la estabilidad del tejido y el tipo de puntada. Las múltiples agujas ofrecen mayor firmeza en telas gruesas como mezclilla o lona, mientras que una sola aguja es más adecuada para telas ligeras o elásticas como la licra.
+      .col-lg-6.col-md-10.col-12.mb-4.mb-lg-0(data-aos="fade-left")
         .crd_hover_txt.tarjeta(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           .crd_hover_txt--img
@@ -542,14 +550,7 @@
           .crd_hover_txt--body.text-center
             h4.mb-3 Espaciamiento y soporte de agujas
             p.mb-0 Hace referencia a la distancia entre agujas (en máquinas de doble aguja) y al soporte que las sostiene. Estos factores impactan directamente la uniformidad del pespunte y la tensión durante el trabajo, garantizando una puntada constante y profesional.
-      .col-lg-6.col-md-10.col-12.mb-4.mb-lg-0(data-aos="fade-left")
-        .crd_hover_txt.tarjeta
-          .crd_hover_txt--img
-            figure
-              img(src="@/assets/curso/temas/t1/tarj3-2.png", alt="")
-          .crd_hover_txt--body.text-center
-            h4.mb-3 Configuración de agujas
-            p.mb-0 Distingue entre máquinas de una sola aguja y de dos o más agujas, lo cual afecta la estabilidad del tejido y el tipo de puntada. Las múltiples agujas ofrecen mayor firmeza en telas gruesas como mezclilla o lona, mientras que una sola aguja es más adecuada para telas ligeras o elásticas como la licra.
+
 
     p.mb-4 Cuando estos ajustes se aplican correctamente, se logra:
 
@@ -591,15 +592,14 @@
         .bg-2.mb-2.px-lg-4.p-3
           figure
             img(src='@/assets/curso/temas/t1/fig10.svg', alt='Representa el funcionamiento del diente de arrastre en una máquina de coser. Se ilustra cómo las puntas en forma de sierra del componente hacen contacto con el tejido en su parte inferior, generando fricción para desplazarlo de manera controlada durante el proceso de costura.')
-        figcaption Fuente: 
-          a(href="https://milmoldes.blogspot.com/2008/08/como-usar-una-mquina-de-coser.html" target="_blank") https://milmoldes.blogspot.com/2008/08/como-usar-una-mquina-de-coser.html
+        figcaption SENA, (2021)
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         .bg-13.p-4
           .row.justify-content-center.align-items-center
             .col-lg-8        
-              p Los dientes de arrastre pueden ser ajustados en altura y presión, lo que permite adaptarlos a diferentes tipos de tejidos y técnicas de costura. Un diente demasiado alto puede causar fruncidos, mientras que uno demasiado bajo puede no arrastrar adecuadamente el material.
+              p Los dientes de arrastre se clasifican según su densidad por pulgada lineal, lo que determina la cantidad de puntos de contacto con la tela. Para tejidos planos o medianos, los más comunes son los de 16, 18, 20 o 24 dientes por pulgada. En cambio, para materiales más compactos y resistentes, como el cuero o la lona, se prefieren dientes más separados, con una distancia de hasta 2,5 mm entre ellos.
               p.mb-0 En algunos casos, especialmente cuando se supera la densidad de 24 dientes por pulgada (como en ciertas máquinas domésticas), se emplean dientes de perfil piramidal, que mejoran el agarre sin dañar tejidos delicados. También es importante tener en cuenta el número de hileras de dientes, ya que este factor aumenta la superficie de fricción y mejora el transporte de materiales difíciles.
             .col-lg-4.col-md-6.col-10
               img(src='@/assets/curso/temas/t1/20.png', alt='')
@@ -725,7 +725,7 @@
                             td Zigzag
                             td 135 x 5
                           tr
-                            td Dos Agujas
+                            td Dos agujas
                             td 135 x 5
                           tr
                             td Fileteadora

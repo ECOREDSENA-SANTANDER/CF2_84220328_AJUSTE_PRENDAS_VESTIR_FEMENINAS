@@ -20,7 +20,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               h4.mb-1.ct-color-primario Espacio de trabajo
-              p.mb-0.text-white Para fortalecer el aprendizaje, se invita a explorar el siguiente documento de apoyo:
+              p.mb-0.text-white Para fortalecer el aprendizaje, se invita a explorar el siguiente documento de apoyo.
             .col-sm-auto
               a.boton.bg-4(:href="obtenerLink('/downloads/Anexo2_Espacio_de_trabajo.pdf')" target="_blank")
                 span Descargar
@@ -57,7 +57,7 @@
     LineaTiempoD.color-acento-contenido.mb-5(data-aos="fade-down")
       .row(numero="1" titulo="Paso 1")
         .col-md-4.col-lg-4
-          p Puesta a punto de máquina fileteadora con puntada de seguridad paso 1 alistamiento de herramientas:
+          p Puesta a punto de máquina fileteadora con puntada de seguridad paso 1 alistamiento de herramientas.
         .col-md-8.col-lg-8
           figure
             .video
@@ -65,7 +65,7 @@
           figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad paso 1 alistamiento de herramientas 
       .row(numero="2" titulo="Paso 2")
         .col-md-4.col-lg-4
-          p Puesta a punto de máquina fileteadora con puntada de seguridad paso 2 limpieza y orden del puesto:
+          p Puesta a punto de máquina fileteadora con puntada de seguridad paso 2 limpieza y orden del puesto.
         .col-md-8.col-lg-8
           figure
             .video
@@ -73,7 +73,7 @@
           figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad paso 2 limpieza y orden del puesto
       .row(numero="3" titulo="Paso 3")
         .col-md-4.col-lg-4
-          p Puesta a punto de máquina fileteadora con puntada de seguridad paso 3 enhebrado de hilo para Looper:
+          p Puesta a punto de máquina fileteadora con puntada de seguridad paso 3 enhebrado de hilo para Looper.
         .col-md-8.col-lg-8
           figure
             .video
@@ -81,7 +81,7 @@
           figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad paso 3 enhebrado de hilo para Looper
       .row(numero="4" titulo="Paso 4")
         .col-md-4.col-lg-4
-          p Puesta a punto de máquina fileteadora con puntada de seguridad paso 4 enhebrado de hilo para Looper:
+          p Puesta a punto de máquina fileteadora con puntada de seguridad paso 4 enhebrado de hilo para Looper.
         .col-md-8.col-lg-8
           figure
             .video
@@ -89,7 +89,7 @@
           figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad paso 4 enhebrado de hilo para Looper
       .row(numero="5" titulo="Paso 5")
         .col-md-4.col-lg-4
-          p Puesta a punto de máquina fileteadora con puntada de seguridad paso 5 enhebrado de hilo para aguja:
+          p Puesta a punto de máquina fileteadora con puntada de seguridad paso 5 enhebrado de hilo para aguja.
         .col-md-8.col-lg-8
           figure
             .video
@@ -97,7 +97,7 @@
           figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad paso 5 enhebrado de hilo para aguja
       .row(numero="6" titulo="Paso 6")
         .col-md-4.col-lg-4
-          p Puesta a punto de máquina fileteadora con puntada de seguridad paso 6 enhebrado de hilo para aguja
+          p Puesta a punto de máquina fileteadora con puntada de seguridad paso 6 enhebrado de hilo para aguja.
         .col-md-8.col-lg-8
           figure
             .video
@@ -105,7 +105,7 @@
           figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad paso 6 enhebrado de hilo para aguja
       .row(numero="7" titulo="Paso 7")
         .col-md-4.col-lg-4
-          p Puesta a punto de máquina fileteadora con puntada de seguridad paso 7 enhebrado de hilo para Looper:
+          p Puesta a punto de máquina fileteadora con puntada de seguridad paso 7 enhebrado de hilo para Looper.
         .col-md-8.col-lg-8
           figure
             .video
@@ -113,7 +113,7 @@
           figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad paso 7 enhebrado de hilo para Looper
       .row(numero="8" titulo="Paso 8")
         .col-md-4.col-lg-4
-          p Puesta a punto de máquina fileteadora con puntada de seguridad paso 8 prueba de costura:
+          p Puesta a punto de máquina fileteadora con puntada de seguridad paso 8 prueba de costura.
         .col-md-8.col-lg-8
           figure
             .video
@@ -121,7 +121,7 @@
           figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad paso 8 prueba de costura
       .row(numero="9" titulo="Paso 9")
         .col-md-4.col-lg-4
-          p Puesta a punto de máquina fileteadora con puntada de seguridad paso 9 tensión de la máquina:
+          p Puesta a punto de máquina fileteadora con puntada de seguridad paso 9 tensión de la máquina.
         .col-md-8.col-lg-8
           figure
             .video
@@ -129,7 +129,7 @@
           figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad paso 9 tensión de la máquina
       .row(numero="10" titulo="Paso 10")
         .col-md-4.col-lg-4
-          p Puesta a punto de máquina fileteadora con puntada de seguridad paso 10 calibración de puntada:
+          p Puesta a punto de máquina fileteadora con puntada de seguridad paso 10 calibración de puntada.
         .col-md-8.col-lg-8
           figure
             .video
@@ -137,7 +137,7 @@
           figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad paso 10 calibración de puntada
       .row(numero="11" titulo="Paso 11")
         .col-md-4.col-lg-4
-          p Puesta a punto de máquina fileteadora con puntada de seguridad paso 11 nivel de arrastre: 
+          p Puesta a punto de máquina fileteadora con puntada de seguridad paso 11 nivel de arrastre.
         .col-md-8.col-lg-8
           figure
             .video
@@ -145,7 +145,7 @@
           figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad paso 11 nivel de arrastre
       .row(numero="12" titulo="Paso 12")
         .col-md-4.col-lg-4
-          p Puesta a punto de máquina fileteadora con puntada de seguridad paso 12 nivel de aceite:
+          p Puesta a punto de máquina fileteadora con puntada de seguridad paso 12 nivel de aceite.
         .col-md-8.col-lg-8
           figure
             .video
@@ -153,7 +153,7 @@
           figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad paso 12 nivel de aceite
       .row(numero="13" titulo="Paso 13")
         .col-md-4.col-lg-4
-          p Puesta a punto de máquina fileteadora con puntada de seguridad paso 13 dispositivos de seguridad:
+          p Puesta a punto de máquina fileteadora con puntada de seguridad paso 13 dispositivos de seguridad.
         .col-md-8.col-lg-8
           figure
             .video
@@ -183,7 +183,7 @@
               ul.lista-ul--color.color-primario.fa-lista
                 li
                   i.far.fa-circle
-                  span.mb-0.texto-blanco Operaciones básicas para el manejo de máquina fileteadora Paso 1 Operación para unir piezas.
+                  span.mb-0.texto-blanco Operaciones básicas para el manejo de máquina fileteadora. Paso 1. Operación para unir piezas.
             .col-sm-auto
               a.boton.bg-4(:href="('https://www.youtube.com/watch?v=giII2qtE8ig&list=PLkc5n6npRWkhq9z8eUd2qXfN43M08IM-3&index=2')" target="_blank")
                 span Ver video
@@ -193,7 +193,7 @@
               ul.lista-ul--color.color-primario.fa-lista
                 li
                   i.far.fa-circle
-                  span.mb-0.texto-blanco Operaciones básicas para el manejo de máquina fileteadora Paso 2 Operación para hacer filete recto.
+                  span.mb-0.texto-blanco Operaciones básicas para el manejo de máquina fileteadora. Paso 2. Operación para hacer filete recto.
             .col-sm-auto
               a.boton.bg-4(:href="('https://www.youtube.com/watch?v=vQuwUriVIhk&list=PLkc5n6npRWkhq9z8eUd2qXfN43M08IM-3&index=3 ')" target="_blank")
                 span Ver video
@@ -203,7 +203,7 @@
               ul.lista-ul--color.color-primario.fa-lista
                 li
                   i.far.fa-circle
-                  span.mb-0.texto-blanco Operaciones básicas para el manejo de máquina fileteadora Paso 3 Operación para rematar en filete.
+                  span.mb-0.texto-blanco Operaciones básicas para el manejo de máquina fileteadora. Paso 3. Operación para rematar en filete.
             .col-sm-auto
               a.boton.bg-4(:href="('https://www.youtube.com/watch?v=FMZdQb13rXU&list=PLkc5n6npRWkhq9z8eUd2qXfN43M08IM-3&index=4 ')" target="_blank")
                 span Ver video
@@ -230,7 +230,7 @@
         PasosA.color-adicional-1(tipo="n")
           .row.align-items-center
             .col-md-4.col-lg-4
-              p Puesta a punto máquina plana de una aguja paso 1 alistamiento de herramientas y elementos: 
+              p Puesta a punto máquina plana de una aguja paso 1 alistamiento de herramientas y elementos. 
             .col-md-8.col-lg-8
               figure
                 .video
@@ -243,10 +243,10 @@
                   iframe(width="560" height="315" src="https://www.youtube.com/embed/r2nTYITcaBw?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
               figcaption Video. Puesta a punto máquina plana de una aguja paso 2 limpieza y orden del puesto de trabajo
             .col-md-4.col-lg-4
-              p Puesta a punto máquina plana de una aguja paso 2 limpieza y orden del puesto de trabajo:
+              p Puesta a punto máquina plana de una aguja paso 2 limpieza y orden del puesto de trabajo.
           .row.align-items-center
             .col-md-4.col-lg-4
-              p Puesta a punto máquina plana de una aguja paso 3 enhebrado hilo de aguja:
+              p Puesta a punto máquina plana de una aguja paso 3 enhebrado hilo de aguja.
             .col-md-8.col-lg-8
               figure
                 .video
@@ -259,10 +259,10 @@
                   iframe(width="560" height="315" src="https://www.youtube.com/embed/2mX-Qv-_Gwg?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
               figcaption Video.  Puesta a punto máquina plana de una aguja paso 4 enhebrado hilo de caja bobina 
             .col-md-4.col-lg-4
-              p  Puesta a punto máquina plana de una aguja paso 4 enhebrado hilo de caja bobina:
+              p  Puesta a punto máquina plana de una aguja paso 4 enhebrado hilo de caja bobina.
           .row.align-items-center
             .col-md-4.col-lg-4
-              p Puesta a punto máquina plana de una aguja paso 5 prueba de costura:
+              p Puesta a punto máquina plana de una aguja paso 5 prueba de costura.
             .col-md-8.col-lg-8
               figure
                 .video
@@ -275,10 +275,10 @@
                   iframe(width="560" height="315" src="https://www.youtube.com/embed/st_MxwyNK8o?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
               figcaption Video. Puesta a punto máquina plana de una aguja paso 6 tensión requerida de la máquina
             .col-md-4.col-lg-4
-              p Puesta a punto máquina plana de una aguja paso 6 tensión requerida de la máquina:
+              p Puesta a punto máquina plana de una aguja paso 6 tensión requerida de la máquina.
           .row.align-items-center
             .col-md-4.col-lg-4
-              p Puesta a punto máquina plana de una aguja paso 7 calibración de acuerdo con las especificaciones:
+              p Puesta a punto máquina plana de una aguja paso 7 calibración de acuerdo con las especificaciones.
             .col-md-8.col-lg-8
               figure
                 .video
@@ -291,10 +291,10 @@
                   iframe(width="560" height="315" src="https://www.youtube.com/embed/R3jbWgbGH4M?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
               figcaption Video. Puesta a punto máquina plana de una aguja paso 8 Nivel de arrastre
             .col-md-4.col-lg-4
-              p Puesta a punto máquina plana de una aguja paso 8 Nivel de arrastre:
+              p Puesta a punto máquina plana de una aguja paso 8 Nivel de arrastre.
           .row.align-items-center
             .col-md-4.col-lg-4
-              p Puesta a punto máquina plana de una aguja paso 9 Nivel de aceite:
+              p Puesta a punto máquina plana de una aguja paso 9 Nivel de aceite.
             .col-md-8.col-lg-8
               figure
                 .video
@@ -307,7 +307,7 @@
                   iframe(width="560" height="315" src="https://www.youtube.com/embed/0dJ_CViXbsI?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
               figcaption Video. Puesta a punto máquina plana de una aguja paso 10 Dispositivos de seguridad
             .col-md-4.col-lg-4
-              p Puesta a punto máquina plana de una aguja paso 10 Dispositivos de seguridad:         
+              p Puesta a punto máquina plana de una aguja paso 10 Dispositivos de seguridad. 
     
 
     .subt.mb-4(data-aos="fade")

@@ -252,7 +252,7 @@ export default {
     {
       termino: 'Máquina familiar',
       significado:
-        'Equipo doméstico de costura de baja velocidad y potencia, apto para trabajos ligeros y prototipado.',
+        'Equipo doméstico de costura de baja velocidad y potencia, apto para trabajos ligeros y prototipados.',
     },
     {
       termino: 'Máquina industrial',
@@ -366,7 +366,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
+          nombre: 'Maria Alejandra Vera Briceño',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro Agroturístico - Regional Santander',
         },
@@ -376,7 +376,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },

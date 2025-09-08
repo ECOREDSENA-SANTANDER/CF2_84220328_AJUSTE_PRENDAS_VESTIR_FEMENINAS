@@ -49,7 +49,7 @@
           a(href="https://www.coats.com/es/info-hub/selecting-your-sewing-threads/" target="_blank") https://www.coats.com/es/info-hub/selecting-your-sewing-threads/
 
     TabsB.color-acento-contenido.mb-5(data-aos="fade-down")
-      .py-4.py-md-5(titulo="El hilo monofilamento" :icono="require('@/assets/curso/temas/t3/tab-ico1.svg')")
+      .py-4.py-md-5(titulo="El hilo con núcleo" :icono="require('@/assets/curso/temas/t3/tab-ico1.svg')")
         .row.justify-content-center
           .col-md-11
             .row.justify-content-center.align-items-center.mb-3
@@ -63,11 +63,11 @@
                   a(href="https://www.coats.com/es/info-hub/selecting-your-sewing-threads/" target="_blank") https://www.coats.com/es/info-hub/selecting-your-sewing-threads/
               .col-lg-8.col-md-6
                 p El hilo con núcleo combina un filamento de poliéster en el centro con un recubrimiento de fibras (algodón o poliéster), lo que le aporta resistencia y suavidad. Esta estructura facilita el paso por la máquina y produce costuras firmes, ideales para confección a alta velocidad y prendas de alto esfuerzo. Por su parte, los hilos de filamento continuo (como poliéster, #[em nylon] o acetato) ofrecen mayor resistencia que los de fibra corta y se utilizan en aplicaciones industriales por su durabilidad y uniformidad.
+      .py-4.py-md-5(titulo="El hilo monofilamento" :icono="require('@/assets/curso/temas/t3/tab-ico1.svg')")
+        .row.justify-content-center
+          .col-md-11      
             .row.justify-content-center.align-items-center
-              .col-lg-8.col-md-6
-                h4 El hilo monofilamento 
-                p Consiste en un solo filamento continuo de diámetro controlado, lo que le confiere una resistencia y uniformidad destacadas a un coste de producción relativamente bajo. Sin embargo, su rigidez y textura áspera limitan su flexibilidad y confort, por lo que su aplicación se concentra principalmente en confecciones donde estas propiedades resultan deseables, tales como bastillas, cortinas y tapicería. Gracias a su consistencia dimensional y su estabilidad frente a la tensión, el monofilamento garantiza bordes definidos y duraderos en usos decorativos y de tapizado, aunque no se recomienda para prendas de vestir que requieran suavidad o elasticidad.
-              .col-lg-4.col-md-6.col-8
+              .col-lg-4.col-md-6.col-8.mb-4.mb-md-0
                 .titulo-sexto.color-acento-contenido.mb-2
                   h5 Figura 29.
                   span Hilo monofilamento
@@ -75,6 +75,9 @@
                   img(src='@/assets/curso/temas/t3/fig29.png', alt='Cilindro continuo con superficie lisa y uniforme, sin divisiones visibles ni textura trenzada.')
                 figcaption Fuente: 
                   a(href="https://www.coats.com/es/info-hub/selecting-your-sewing-threads/" target="_blank") https://www.coats.com/es/info-hub/selecting-your-sewing-threads/
+              .col-lg-8.col-md-6
+                h4 El hilo monofilamento 
+                p Consiste en un solo filamento continuo de diámetro controlado, lo que le confiere una resistencia y uniformidad destacadas a un coste de producción relativamente bajo. Sin embargo, su rigidez y textura áspera limitan su flexibilidad y confort, por lo que su aplicación se concentra principalmente en confecciones donde estas propiedades resultan deseables, tales como bastillas, cortinas y tapicería. Gracias a su consistencia dimensional y su estabilidad frente a la tensión, el monofilamento garantiza bordes definidos y duraderos en usos decorativos y de tapizado, aunque no se recomienda para prendas de vestir que requieran suavidad o elasticidad.
       .py-4.py-md-5(titulo="El hilo multifilamento suave" :icono="require('@/assets/curso/temas/t3/tab-ico2.svg')")
         .row.justify-content-center
           .col-md-11
@@ -149,15 +152,15 @@
                 th.text-center Prenda
             tbody
               tr
-                td Liviano.
+                td Liviano
                 td 24, 25, 27.
                 td Blusas, ropa interior.
               tr
-                td Semipesado.
+                td Semipesado
                 td 30, 35, 40.
                 td Pantalones, overol drill.
               tr
-                td Pesado.
+                td Pesado
                 td 60, 70 hasta 120.
                 td #[em Jeans], chaquetas.
       
@@ -304,15 +307,15 @@
             li
               .lista-ol--cuadro__vineta
                 span.fw-bold a.
-              span.mb-0 #[strong Serie:] es el primer dígito del código de la puntada y agrupa grandes familias de puntada. Cada serie define un método general de formación de la puntada.
+              span.mb-0 Serie: es el primer dígito del código de la puntada y agrupa grandes familias de puntada. Cada serie define un método general de formación de la puntada.
             li
               .lista-ol--cuadro__vineta
                 span.fw-bold b.
-              span.mb-0 #[strong Tipo:] corresponde al código completo de la puntada (tres dígitos) y precisa la variante o subtipo dentro de cada familia. Por ejemplo, dentro de la serie 100 aparecen las puntadas 101, 102 y 103, todas ellas “cadeneta sencilla de un solo hilo”.
+              span.mb-0 Tipo: corresponde al código completo de la puntada (tres dígitos) y precisa la variante o subtipo dentro de cada familia. Por ejemplo, dentro de la serie 100 aparecen las puntadas 101, 102 y 103, todas ellas “cadeneta sencilla de un solo hilo”.
             li
               .lista-ol--cuadro__vineta
                 span.fw-bold c.
-              span.mb-0 #[strong Características:] describe brevemente el modo en que se forma la puntada y el número de hilos o pasadas implicadas:
+              span.mb-0 Características: describe brevemente el modo en que se forma la puntada y el número de hilos o pasadas implicadas:
       .col-lg-6(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido.mb-2
           h5 Tabla 11.
@@ -364,7 +367,7 @@
                   .row.justify-content-center.align-items-center.mb-3
                     .col-md-6.col-lg-7
                       img.h-99.mb-3(src='@/assets/curso/temas/t3/tarj1-1.svg', alt='')
-                      h4.text-center.ct-1.mb-1 100 (101 – 103). 
+                      h4.text-center.ct-1.mb-1 100 (101 - 103). 
                       h4.bg-3.w-fit.text-white.px-2.py-1.m-auto.mb-1 Cadeneta sencilla 
                       h4.text-center.ct-1.mb-4 de un solo hilo
                       p.text-center Una puntada en la que un único hilo forma una cadena de lazo sobre el revés de la tela, muy utilizada para costuras ligeras y flexibles.
@@ -395,7 +398,7 @@
                   .row.justify-content-center.align-items-center.mb-3
                     .col-md-6.col-lg-7
                       img.h-99.mb-3(src='@/assets/curso/temas/t3/tarj1-3.svg', alt='')
-                      h4.text-center.ct-1.mb-1 300 (301 – 304 – 315).
+                      h4.text-center.ct-1.mb-1 300 (301 - 304 - 315).
                       h4.bg-3.w-fit.text-white.px-2.py-1.m-auto.mb-4 Doble pespunte
                       p.text-center Dos líneas paralelas de puntada recta proporcionan alta resistencia y son comunes en costuras de alta tensión, como en #[em jeans] o artículos deportivos.
                     .col-md-6.col-lg-5
@@ -410,7 +413,7 @@
                   .row.justify-content-center.align-items-center.mb-3
                     .col-md-6.col-lg-7
                       img.h-99.mb-3(src='@/assets/curso/temas/t3/tarj1-4.svg', alt='')
-                      h4.text-center.ct-1.mb-1 400 (401 – 406 – 407). 
+                      h4.text-center.ct-1.mb-1 400 (401 - 406 - 407). 
                       h4.bg-3.w-fit.text-white.px-2.py-1.m-auto.mb-4 Cadeneta doble
                       p.text-center Similar a la cadeneta sencilla, pero con dos hilos entrelazados, ofrece mayor firmeza y moderada elasticidad.
                     .col-md-6.col-lg-5
@@ -425,7 +428,7 @@
                   .row.justify-content-center.align-items-center.mb-3
                     .col-md-6.col-lg-7
                       img.h-99.mb-3(src='@/assets/curso/temas/t3/tarj1-5.svg', alt='')
-                      h4.text-center.ct-1.mb-1 500 (504 – 514 – 516).
+                      h4.text-center.ct-1.mb-1 500 (504 - 514 - 516).
                       h4.bg-3.w-fit.text-white.px-2.py-1.m-auto.mb-4 Sobrehilado
                       p.text-center Puntada de remate de orillo, envuelve el borde del tejido para evitar deshilachados y asegurar un acabado limpio.
                     .col-md-6.col-lg-5
@@ -440,7 +443,7 @@
                   .row.justify-content-center.align-items-center.mb-3
                     .col-md-6.col-lg-7
                       img.h-99.mb-3(src='@/assets/curso/temas/t3/tarj1-6.svg', alt='')
-                      h4.text-center.ct-1.mb-1 600 (602 – 605 – 609)
+                      h4.text-center.ct-1.mb-1 600 (602 - 605 - 609).
                       h4.bg-3.w-fit.text-white.px-2.py-1.m-auto.mb-4 #[em Flatseamers]
                       p.text-center Puntada de cobertura plana, usada para unir dos capas de tela con un acabado plano y suave, muy habitual en ropa deportiva y de punto.
                     .col-md-6.col-lg-5
@@ -460,7 +463,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               h4.mb-1.ct-color-primario Clasificación de los hilos
-              p.mb-0.text-white Se invita a revisar la clasificación general de los hilos:
+              p.mb-0.text-white Se invita a revisar la clasificación general de los hilos.
             .col-sm-auto
               a.boton.bg-4(:href="('https://www.youtube.com/watch?v=XmnGaIHLbro&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA')" target="_blank")
                 span Ver video
@@ -584,7 +587,7 @@
     TabsA.color-secundario(data-aos="fade-down")
       .tarjeta.bg-12.p-4(titulo="<em>Sew-in</em> (cosible)")
         h4 #[em Sew-in] (cosible)
-        p Estabilizador que se incorpora permanentemente a la prenda mediante puntadas o hilvanes y permanece en ella durante toda su vida útil. No requiere retirada, ya que forma parte de la estructura interna, aportando soporte continuo en zonas que necesitan refuerzo (por ejemplo, cuellos, puños o cinturillas).
+        p Estabilizador que se incorpora permanentemente a la prenda mediante puntadas o hilvanes y permanece en ella durante toda su vida útil. No requiere retirada, ya que forma parte de la estructura interna, aportando soporte continuo en zonas que necesitan refuerzo (por ejemplo: cuellos, puños o cinturillas).
       .tarjeta.bg-12.p-4(titulo="<em>Tear-away</em> (desprendible)")
         h4 #[em Tear-away] (desprendible)
         p Estabilizador de un solo uso que se coloca bajo el área de bordado o aplique y, una vez terminado el trabajo, se retira tirando lentamente de sus bordes. Está formulado para despegarse sin dejar restos ni dañar la tela, y es ideal en tejidos planos que no se distienden.
@@ -627,7 +630,7 @@
         h5 Tabla 13.
         span Tipos de cremalleras y sus características 
       .tabla-a.color-acento-contenido
-        table(alt="")
+        table(alt="Cuadro con cuatro filas que describen tipos de cremalleras, agrupadas por insumo, característica, uso, tipos y ejemplos. Cada fila incluye información técnica sobre materiales como nylon, metal o plástico, y su aplicación en prendas, bolsos o ropa técnica.")
           caption Fuente: SENA, (2025)
           thead
             tr.bg-color-primario
@@ -703,36 +706,36 @@
           tbody
             tr
               td Botones metálicos / plásticos / nácar
-              td Materiales diversos (plástico, metal, nácar)
-              td Cierre de prendas y detalle decorativo
-              td Plástico inyectado, metal laminado, nácar natural
-              td Botón plano de nácar en camisas formales; botón metálico de presión en cazadoras
+              td Materiales diversos (plástico, metal, nácar).
+              td Cierre de prendas y detalle decorativo.
+              td Plástico inyectado, metal laminado, nácar natural.
+              td Botón plano de nácar en camisas formales; botón metálico de presión en cazadoras.
             tr
               td Botones plásticos y de madera
-              td Dimensiones variables (diámetro y grosor)
-              td Ajuste de tensión y estética
-              td Grande, mediano, pequeño
-              td Botón grande decorativo en abrigos; botón pequeño en puños de blusa
+              td Dimensiones variables (diámetro y grosor).
+              td Ajuste de tensión y estética.
+              td Grande, mediano, pequeño.
+              td Botón grande decorativo en abrigos; botón pequeño en puños de blusa.
             tr
               td Botón de presión
-              td Resistencia mecánica según método de fijación
-              td Prendas de uso intenso y lavados frecuentes
-              td Cosido, remache, soldadura
-              td Botón remachado en ropa de trabajo; botón soldado en equipamiento industrial
+              td Resistencia mecánica según método de fijación.
+              td Prendas de uso intenso y lavados frecuentes.
+              td Cosido, remache, soldadura.
+              td Botón remachado en ropa de trabajo; botón soldado en equipamiento industrial.
 
     .subt.mb-4(data-aos="fade")
       img(src="@/assets/curso/temas/t4/subt.svg")
       h3.ps-3.pe-4.mb-0 Broches y #[em snaps]
 
     .bg-1.p-4.p-lg-5.h-100.d-flex.align-items-center.mb-4
-      p.mb-0 Los broches de presión (#[em snaps]) son cierres de dos piezas que se ensamblan con un simple “clic”, combinando rapidez de apertura y resistencia mecánica. Están compuestos por un casquillo hembra y un macho, disponibles en acero niquelado, latón o plástico, lo que permite su uso en prendas infantiles, ropa técnica y accesorios de moda. Su instalación se realiza mediante herramientas de prensa manual o hidráulica, insertando primero el casquillo y luego el elemento macho, de manera que queden firmemente unidos. Gracias a su bajo perfil y a su capacidad de soportar múltiples ciclos de apertura, los broches resultan idóneos en aplicaciones donde se requiere un cierre rápido y discreto, tales como bolsillos, cuellos desmontables y complementos de diseño.   
+      p.mb-0 Los broches de presión (#[em snaps]) son cierres de dos piezas que se ensamblan con un simple “#[em clic]”, combinando rapidez de apertura y resistencia mecánica. Están compuestos por un casquillo hembra y un macho, disponibles en acero niquelado, latón o plástico, lo que permite su uso en prendas infantiles, ropa técnica y accesorios de moda. Su instalación se realiza mediante herramientas de prensa manual o hidráulica, insertando primero el casquillo y luego el elemento macho, de manera que queden firmemente unidos. Gracias a su bajo perfil y a su capacidad de soportar múltiples ciclos de apertura, los broches resultan idóneos en aplicaciones donde se requiere un cierre rápido y discreto, tales como bolsillos, cuellos desmontables y complementos de diseño.   
         
     .mb-5(data-aos="fade-down")
       .titulo-sexto.color-acento-contenido.mb-3
         h5 Tabla 15.
         span Tipos de broches y #[em snaps]
       .tabla-a.color-acento-contenido
-        table(alt="")
+        table(alt="Tabla con cuatro filas que describen tipos de cierres tipo snap y broches, organizados por insumo, característica, uso, tipos y ejemplos. Se incluyen materiales como acero, latón y plástico, con aplicaciones en prendas, accesorios y producción industrial.")
           caption Fuente: SENA, (2025)
           thead
             tr.bg-color-primario
@@ -824,13 +827,13 @@
               th.text-center Ejemplos
           tbody
             tr
-              td Cinta Al Bies
+              td Cinta al bies
               td Corte sesgado que permite adaptarse a curvas y bordes.
               td Rematar escotes, sisas y orillas en prendas y mantelería.
               td Algodón, poliéster, seda.
               td Ribete de escote en vestido; borde de servilleta.
             tr
-              td Cinta Decorativa
+              td Cinta decorativa
               td Variedad de anchuras, estampados y texturas.
               td Adorno y refuerzo en costuras vistas.
               td Galones, pasamanerías, encajes.
@@ -887,7 +890,7 @@
               th.text-center Ejemplos
           tbody
             tr
-              td Elástico Plano
+              td Elástico plano
               td Banda ancha y plana con gran recuperación longitudinal.
               td Cinturas, puños y tobillos.
               td Tejido (algodón / poliéster), caucho interno.
@@ -1037,7 +1040,7 @@
                 span.mb-0 #[strong Aplicabilidad en prendas femeninas:]#[br] Escotes, cinturillas y puños en vestidos de novia y prendas de alta costura.
               li
                 i.far.fa-circle
-                span.mb-0 #[strong Ejemplos:]#[br] Escotes, cinturillas y puños en vestidos de novia y prendas de alta costura.
+                span.mb-0 #[strong Ejemplos:]#[br] Vestido de novia con cenefa veneciana; cinturón decorativo.
       .bg-11.py-4.py-md-5(titulo="Tul bordado")
         .row.justify-content-center.align-items-center
           .col-9.col-md-5.col-lg-3.mb-4.mb-lg-0
@@ -1045,7 +1048,7 @@
               h5 Figura 51.
               span Tul bordado
             figure.mb-2  
-              img(src='@/assets/curso/temas/t3/fig51.png', alt='')
+              img(src='@/assets/curso/temas/t3/fig51.png', alt='Diseño textil compuesto por franjas horizontales con patrones de zigzag y manchas irregulares, decorado con puntos brillantes distribuidos en toda la superficie.')
             figcaption Fuente: 
               a(href="https://n9.cl/cziha9" target="_blank") https://n9.cl/cziha9
           .col-10.col-md-6.col-lg-7
@@ -1187,7 +1190,9 @@
           span Parches / apliques
         figure.mb-2  
           img(src='@/assets/curso/temas/t3/fig56.png', alt='Prenda de mezclilla decorada con tres parches bordados: un arco curvo, una hoja y una palabra en letras grandes adherida sobre el bolsillo.')
-        figcaption Fuente: SENA, (2025)
+        figcaption Fuente: 
+          a(href="https://n9.cl/blp28i" target="_blank") https://n9.cl/blp28i
+
 
     .mb-1(data-aos="fade-down")
       .titulo-sexto.color-acento-contenido
