@@ -63,7 +63,7 @@
                   a(href="https://www.coats.com/es/info-hub/selecting-your-sewing-threads/" target="_blank") https://www.coats.com/es/info-hub/selecting-your-sewing-threads/
               .col-lg-8.col-md-6
                 p El hilo con núcleo combina un filamento de poliéster en el centro con un recubrimiento de fibras (algodón o poliéster), lo que le aporta resistencia y suavidad. Esta estructura facilita el paso por la máquina y produce costuras firmes, ideales para confección a alta velocidad y prendas de alto esfuerzo. Por su parte, los hilos de filamento continuo (como poliéster, #[em nylon] o acetato) ofrecen mayor resistencia que los de fibra corta y se utilizan en aplicaciones industriales por su durabilidad y uniformidad.
-      .py-4.py-md-5(titulo="El hilo monofilamento" :icono="require('@/assets/curso/temas/t3/tab-ico1.svg')")
+      .py-4.py-md-5(titulo="El hilo monofilamento" :icono="require('@/assets/curso/temas/t3/tab-ico4.svg')")
         .row.justify-content-center
           .col-md-11      
             .row.justify-content-center.align-items-center
@@ -76,7 +76,6 @@
                 figcaption Fuente: 
                   a(href="https://www.coats.com/es/info-hub/selecting-your-sewing-threads/" target="_blank") https://www.coats.com/es/info-hub/selecting-your-sewing-threads/
               .col-lg-8.col-md-6
-                h4 El hilo monofilamento 
                 p Consiste en un solo filamento continuo de diámetro controlado, lo que le confiere una resistencia y uniformidad destacadas a un coste de producción relativamente bajo. Sin embargo, su rigidez y textura áspera limitan su flexibilidad y confort, por lo que su aplicación se concentra principalmente en confecciones donde estas propiedades resultan deseables, tales como bastillas, cortinas y tapicería. Gracias a su consistencia dimensional y su estabilidad frente a la tensión, el monofilamento garantiza bordes definidos y duraderos en usos decorativos y de tapizado, aunque no se recomienda para prendas de vestir que requieran suavidad o elasticidad.
       .py-4.py-md-5(titulo="El hilo multifilamento suave" :icono="require('@/assets/curso/temas/t3/tab-ico2.svg')")
         .row.justify-content-center
@@ -110,7 +109,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 7.
+          h5 Tabla 6.
           span Características del hilo y su composición
         .tabla-a.color-acento-contenido
           table(alt="Tabla con cuatro tipos de insumos textiles: algodón, poliéster, mercerizado y lubricado. Se especifica que el algodón es una fibra natural de alto confort, el poliéster es un filamento sintético con resistencia y elasticidad, el mercerizado es un tratamiento químico que mejora las fibras, y el lubricado es un acabado para facilitar el proceso de cosido.")
@@ -140,7 +139,7 @@
         img.d-none.d-lg-block(src="@/assets/curso/temas/t3/6.png")
       .col-lg-9(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 8.
+          h5 Tabla 7.
           span Tamaño de hilo y aplicaciones  
         .tabla-a.color-acento-contenido
           table(alt="Tabla que relaciona el tipo de tejido con el grosor del hilo (medido en TEX) y las prendas recomendadas. El tejido liviano corresponde a hilos TEX 24 a 27 para blusas y ropa interior. El semipesado emplea TEX 30 a 40 para pantalones y overoles. El tejido pesado, con TEX de 60 a 120, se usa en prendas como chaquetas y pantalones de mezclilla.")
@@ -170,7 +169,7 @@
 
     .mb-5(data-aos="fade-down")
       .titulo-sexto.color-acento-contenido.mb-2
-        h5 Tabla 9.
+        h5 Tabla 8.
         span Relación del hilo respecto a la aguja y tejido
       .tabla-a.color-acento-contenido
         table(alt="Cuadro comparativo que presenta cinco aspectos técnicos relacionados con el comportamiento del hilo, contrastando sus implicaciones tanto en la interacción con la aguja como con el tejido. Se abordan grosor, tensión, formación de puntada, velocidad de costura y acabado, señalando su influencia en la calidad del pespunte y la integridad del material.")
@@ -225,7 +224,7 @@
 
     .mb-5(data-aos="fade-down")
       .titulo-sexto.color-acento-contenido
-        h5 Tabla 10.
+        h5 Tabla 9.
         span Tipos de puntada y parámetros
       .tabla-a.color-acento-contenido
         table(alt="Tabla con seis tipos de puntadas utilizadas en confección, organizadas por criterios técnicos como durabilidad, elongación, seguridad, apariencia decorativa y usos frecuentes. Incluye variantes como recta, zigzag, overlock, cobertura, triple puntada y festón, detallando su función estructural o estética en distintos acabados.")
@@ -299,28 +298,12 @@
               p.mb-0 Para zonas sometidas a esfuerzos constantes, la puntada triple proporciona máxima resistencia estructural. Por su parte, la puntada tipo festón se emplea como remate visual, reforzando y embelleciendo bordes curvos o decorativos. Este conjunto de opciones permite mejorar la calidad, la seguridad y la apariencia de las prendas en cada etapa del proceso productivo.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         p Por lo tanto, las características se definen según el tipo de puntada:
-        p.mb-4 La tabla corresponde a la clasificación de las puntadas industriales según su serie (primer dígito), tipo (código completo) y características de construcción.
-        .bg-11.tarjeta.p-4
-          ol.lista-ol--cuadro.color-2.fa-lista
-            li
-              .lista-ol--cuadro__vineta
-                span.fw-bold a.
-              span.mb-0 Serie: es el primer dígito del código de la puntada y agrupa grandes familias de puntada. Cada serie define un método general de formación de la puntada.
-            li
-              .lista-ol--cuadro__vineta
-                span.fw-bold b.
-              span.mb-0 Tipo: corresponde al código completo de la puntada (tres dígitos) y precisa la variante o subtipo dentro de cada familia. Por ejemplo, dentro de la serie 100 aparecen las puntadas 101, 102 y 103, todas ellas “cadeneta sencilla de un solo hilo”.
-            li
-              .lista-ol--cuadro__vineta
-                span.fw-bold c.
-              span.mb-0 Características: describe brevemente el modo en que se forma la puntada y el número de hilos o pasadas implicadas:
-      .col-lg-6(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido.mb-2
-          h5 Tabla 11.
+          h5 Tabla 10.
           span Tipos de puntada por serie
-        .tabla-a.color-acento-contenido.mw-300
+        .tabla-a.color-acento-contenido.mb-4.mw-300
           table(alt="Tabla con clasificación de puntadas industriales por series, desde la 100 hasta la 600. Cada serie agrupa tipos específicos como cadeneta sencilla, doble pespunte, sobrehilado o puntadas ornamentales, destacando su aplicación técnica y número de hilos utilizados.")
             caption Fuente: SENA, (2025)
             thead
@@ -353,6 +336,23 @@
                 td 600
                 td 602 - 605 - 609
                 td #[em Flatseamers].
+        p La tabla corresponde a la clasificación de las puntadas industriales según su serie (primer dígito), tipo (código completo) y características de construcción.
+      .col-lg-5(data-aos="fade-left")
+        .bg-11.tarjeta.p-4.py-lg-5
+          ol.lista-ol--cuadro.color-2.fa-lista
+            li
+              .lista-ol--cuadro__vineta
+                span.fw-bold a.
+              span.mb-0 Serie: es el primer dígito del código de la puntada y agrupa grandes familias de puntada. Cada serie define un método general de formación de la puntada.
+            li
+              .lista-ol--cuadro__vineta
+                span.fw-bold b.
+              span.mb-0 Tipo: corresponde al código completo de la puntada (tres dígitos) y precisa la variante o subtipo dentro de cada familia. Por ejemplo, dentro de la serie 100 aparecen las puntadas 101, 102 y 103, todas ellas “cadeneta sencilla de un solo hilo”.
+            li
+              .lista-ol--cuadro__vineta
+                span.fw-bold c.
+              span.mb-0 Características: describe brevemente el modo en que se forma la puntada y el número de hilos o pasadas implicadas:
+        
 
     .row.bgc-intro.align-items-center.p-2.pt-5.p-md-3.pt-md-5(data-aos="fade")
       .col-lg-12.col-12.px-lg-4
@@ -612,22 +612,14 @@
       h3.ps-3.pe-4.mb-0 Cierres de cremallera
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
-      .col-lg-3.col-md-7.col-10.mb-4.mb-lg-0
-        .titulo-sexto.color-acento-contenido.mb-2
-          h5 Figura 40.
-          span Tipos de cremalleras
-        figure.mb-2
-          img(src='@/assets/curso/temas/t3/fig40.png', alt='Serie de siete cremalleras alineadas en vertical, con variaciones en el diseño del deslizador y forma de los dientes.')
-        figcaption Fuente: 
-          a(href="https://n9.cl/fr05z" target="_blank") https://n9.cl/fr05z 
-      .col-lg-5.col-md-7
+      .col-lg-4.col-md-5.col-8.mb-3.mb-lg-0
+        img(src='@/assets/curso/temas/t3/16.png', alt='')  
+      .col-lg-8.col-md-7
         p Los cierres de cremallera desempeñan un papel esencial en el acceso y el ajuste de las prendas. Se clasifican principalmente según el material de la cadena y los dientes: los cierres de #[em nylon] integran dientes inyectados directamente en una cinta de poliéster, lo que le confiere ligereza, flexibilidad y resistencia al desgaste; por su parte, los cierres metálicos (generalmente de aluminio o latón) ofrecen una mayor solidez y un acabado más robusto, habitualmente empleado en #[em jeans] y prendas exteriores. La selección del tipo de cremallera considera el grosor del tejido, la frecuencia de uso y el diseño estético; en todos los casos, es imprescindible garantizar una instalación precisa, con entalle uniforme de la cinta y fijación segura de los deslizadores, para asegurar un funcionamiento suave y duradero.
-      .col-lg-4.col-md-5.col-8
-        img(src='@/assets/curso/temas/t3/16.png', alt='')
-
+      
     .mb-5(data-aos="fade-down")
       .titulo-sexto.color-acento-contenido.mb-2
-        h5 Tabla 13.
+        h5 Tabla 11.
         span Tipos de cremalleras y sus características 
       .tabla-a.color-acento-contenido
         table(alt="Cuadro con cuatro filas que describen tipos de cremalleras, agrupadas por insumo, característica, uso, tipos y ejemplos. Cada fila incluye información técnica sobre materiales como nylon, metal o plástico, y su aplicación en prendas, bolsos o ropa técnica.")
@@ -665,33 +657,25 @@
               td Tonos coordinados o contrastantes.
               td Cremallera contrastante en bolsos; cremallera metálica en chaquetas de mezclilla.
 
+    .mb-5(data-aos="fade-down")
+      .titulo-sexto.color-acento-contenido.mb-2
+        h5 Figura 40.
+        span Tipos de cremalleras
+      figure
+        img.w-50.m-auto(src='@/assets/curso/temas/t3/fig40.png', alt='Serie de siete cremalleras alineadas en vertical, con variaciones en el diseño del deslizador y forma de los dientes.')
+      figcaption Fuente: 
+        a(href="https://n9.cl/fr05z" target="_blank") https://n9.cl/fr05z 
+    
+
     .subt.mb-4(data-aos="fade")
       img(src="@/assets/curso/temas/t4/subt.svg")
       h3.ps-3.pe-4.mb-0 Botones
 
-    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-down")
-      .col-lg-4
-        p Los botones constituyen elementos de cierre y, a la vez, detalles de ornamentación. Se fabrican en materiales diversos: plásticos inyectados (económicos y de infinitas formas y colores), metales laminados que aportan brillo y resistencia, y nácar natural valorizado por su lustre iridiscente en prendas de vestir elegantes. Cada tipo de botón requiere un método de fijación distinto: el cosido a través de ojales reforzados, la inserción mediante remaches o la soldadura en el caso de botones metálicos de dos piezas. La elección del botón adecuado depende del estilo de la prenda, la carga de esfuerzo sobre el cierre y el acabado deseado; asimismo, se deben considerar el diámetro, el grosor y la separación entre los ojos para asegurar una costura firme y sin deformaciones.
-      .col-lg-4.col-md-6.col-10.mb-4.mb-md-0
-        .titulo-sexto.color-acento-contenido.mb-2
-          h5 Figura 41.
-          span Botones de presión
-        figure 
-          img(src='@/assets/curso/temas/t3/fig41.png', alt='Seis botones metálicos dispuestos en dos filas, con formas circulares y cuadradas, superficies lisas o con relieve.')
-        figcaption Fuente: 
-          a(href="https://n9.cl/6gns81" target="_blank") https://n9.cl/6gns81
-      .col-lg-4.col-md-6.col-10.mb-4.mb-md-0
-        .titulo-sexto.color-acento-contenido.mb-2
-          h5 Figura 42.
-          span Botones metálicos y plásticos
-        figure.mb-3.mb-lg-4 
-          img(src='@/assets/curso/temas/t3/fig42.png', alt='Superficie cubierta por botones de distintos tamaños, materiales y formas, distribuidos de manera uniforme sobre fondo de madera.')
-        figcaption Fuente: 
-          a(href="https://n9.cl/norqz" target="_blank") https://n9.cl/norqz 
+    p.mb-4 Los botones constituyen elementos de cierre y, a la vez, detalles de ornamentación. Se fabrican en materiales diversos: plásticos inyectados (económicos y de infinitas formas y colores), metales laminados que aportan brillo y resistencia, y nácar natural valorizado por su lustre iridiscente en prendas de vestir elegantes. Cada tipo de botón requiere un método de fijación distinto: el cosido a través de ojales reforzados, la inserción mediante remaches o la soldadura en el caso de botones metálicos de dos piezas. La elección del botón adecuado depende del estilo de la prenda, la carga de esfuerzo sobre el cierre y el acabado deseado; asimismo, se deben considerar el diámetro, el grosor y la separación entre los ojos para asegurar una costura firme y sin deformaciones.
 
     .mb-5(data-aos="fade-down")
       .titulo-sexto.color-acento-contenido
-        h5 Tabla 14.
+        h5 Tabla 12.
         span Tipos de botones
       .tabla-a.color-acento-contenido
         table(alt="Cuadro con tres filas que describen tipos de botones según insumo, característica, uso, tipos y ejemplos. Se mencionan materiales como plástico, metal, nácar y madera, con aplicaciones en prendas decorativas, de ajuste o de uso intensivo.")
@@ -723,6 +707,25 @@
               td Cosido, remache, soldadura.
               td Botón remachado en ropa de trabajo; botón soldado en equipamiento industrial.
 
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
+      .col-lg-6.col-md-6.col-10.mb-4.mb-md-0
+        .titulo-sexto.color-acento-contenido.mb-2
+          h5 Figura 41.
+          span Botones de presión
+        figure 
+          img.w-75.m-auto(src='@/assets/curso/temas/t3/fig41.png', alt='Seis botones metálicos dispuestos en dos filas, con formas circulares y cuadradas, superficies lisas o con relieve.')
+        figcaption Fuente: 
+          a(href="https://n9.cl/6gns81" target="_blank") https://n9.cl/6gns81
+      .col-lg-6.col-md-6.col-10.mb-4.mb-md-0
+        .titulo-sexto.color-acento-contenido.mb-2
+          h5 Figura 42.
+          span Botones metálicos y plásticos
+        figure.mb-3.mb-lg-4 
+          img.w-75.m-auto(src='@/assets/curso/temas/t3/fig42.png', alt='Superficie cubierta por botones de distintos tamaños, materiales y formas, distribuidos de manera uniforme sobre fondo de madera.')
+        figcaption Fuente: 
+          a(href="https://n9.cl/norqz" target="_blank") https://n9.cl/norqz 
+
+
     .subt.mb-4(data-aos="fade")
       img(src="@/assets/curso/temas/t4/subt.svg")
       h3.ps-3.pe-4.mb-0 Broches y #[em snaps]
@@ -732,7 +735,7 @@
         
     .mb-5(data-aos="fade-down")
       .titulo-sexto.color-acento-contenido.mb-3
-        h5 Tabla 15.
+        h5 Tabla 13.
         span Tipos de broches y #[em snaps]
       .tabla-a.color-acento-contenido
         table(alt="Tabla con cuatro filas que describen tipos de cierres tipo snap y broches, organizados por insumo, característica, uso, tipos y ejemplos. Se incluyen materiales como acero, latón y plástico, con aplicaciones en prendas, accesorios y producción industrial.")
@@ -786,7 +789,7 @@
           h5 Figura 44.          
           span #[em Snap] montado
         .row.justify-content-center
-          .col-lg-8.col-md-9
+          .col-lg-10.col-md-8
             figure.mb-3
               img(src='@/assets/curso/temas/t3/fig44.png', alt='Cuatro piezas plásticas blancas dispuestas sobre una base cuadriculada, con etiquetas que indican dos partes huecas y dos salientes, comúnmente utilizadas como broches a presión.')
         figcaption Fuente: 
@@ -813,7 +816,7 @@
       
     .mb-5(data-aos="fade-down")
       .titulo-sexto.color-acento-contenido.mb-3
-        h5 Tabla 16.
+        h5 Tabla 14.
         span Tipos de cintas 
       .tabla-a.color-acento-contenido
         table(alt="Tabla con dos filas que describen tipos de cintas según insumo, característica, uso, tipos y ejemplos. Incluye la cinta al bies y la cinta decorativa, utilizadas para acabados, refuerzos o detalles visibles en prendas y textiles.")
@@ -876,8 +879,8 @@
 
     .mb-5(data-aos="fade-down")
       .titulo-sexto.color-acento-contenido.mb-3
-        h5 Tabla 17.
-        span  Tipos de elásticos
+        h5 Tabla 15.
+        span Tipos de elásticos
       .tabla-a.color-acento-contenido
         table(alt="Tabla con dos filas que describen tipos de elásticos según insumo, característica, uso, tipos y ejemplos. Se distingue entre banda plana para cintura o puños y cordón elástico para ajustes en prendas o accesorios.")
           caption Fuente: SENA, (2025)
@@ -920,7 +923,7 @@
 
     .mb-1(data-aos="fade-down")
       .titulo-sexto.color-acento-contenido.mb-3
-        h5 Tabla 18.
+        h5 Tabla 16.
         span Tipos de velcros y cierres de contacto
       .tabla-a.color-acento-contenido
         table(alt="Tabla con tres filas que describen tipos de velcro y cierres de contacto, organizados por insumo, característica, uso, tipos y ejemplos. Incluye versiones con gancho rígido, bucle suave y soporte combinado, utilizados en prendas, bolsos y equipos.")
@@ -1131,7 +1134,7 @@
 
     .mb-5(data-aos="fade-down")
       .titulo-sexto.color-acento-contenido
-        h5 Tabla 19.
+        h5 Tabla 17.
         span Tipos de lentejuelas y pedrería
       .tabla-a.color-acento-contenido
         table(alt="Cuadro con dos categorías: lentejuelas y pedrería. Cada una presenta tipos, características, uso en prendas femeninas y ejemplos. Se destacan acabados reflectantes, iridiscentes, y aplicaciones decorativas en blusas, vestidos y chaquetas.")
@@ -1180,23 +1183,12 @@
     .subt2.mb-4(data-aos="fade")    
       h3.pb-1.mb-0 Apliques y parches
     
-    .row.justify-content-center.mb-5.mb-lg-4(data-aos="fade")
-      .col-lg-6.mb-3
-        .bg-13.p-4
-          p.mb-0 Los apliques y parches son elementos decorativos y funcionales que permiten intervenir zonas específicas de la prenda, ya sea para cubrir desperfectos, reforzar áreas de alto desgaste o añadir un detalle de diseño. Se fabrican en diversos materiales (tela bordada, cuero, goma, vinilo o lentejuelas) y pueden fijarse mediante costura, adhesivo textil o transferencia por calor. En prendas femeninas, resultan especialmente útiles en codos, hombros, bolsillos y demás puntos de fricción, además de aportar un sello distintivo que refuerza la identidad de la pieza. Su correcta elección y ubicación, junto con un respaldo adecuado de entretelas o estabilizadores, garantizan una integración armónica con la silueta y aseguran la durabilidad del acabado.
-      .col-lg-6.col-md-9
-        .titulo-sexto.color-acento-contenido.mb-2
-          h5 Figura 56.
-          span Parches / apliques
-        figure.mb-2  
-          img(src='@/assets/curso/temas/t3/fig56.png', alt='Prenda de mezclilla decorada con tres parches bordados: un arco curvo, una hoja y una palabra en letras grandes adherida sobre el bolsillo.')
-        figcaption Fuente: 
-          a(href="https://n9.cl/blp28i" target="_blank") https://n9.cl/blp28i
+    .bg-13.p-4.mb-4
+      p.mb-0 Los apliques y parches son elementos decorativos y funcionales que permiten intervenir zonas específicas de la prenda, ya sea para cubrir desperfectos, reforzar áreas de alto desgaste o añadir un detalle de diseño. Se fabrican en diversos materiales (tela bordada, cuero, goma, vinilo o lentejuelas) y pueden fijarse mediante costura, adhesivo textil o transferencia por calor. En prendas femeninas, resultan especialmente útiles en codos, hombros, bolsillos y demás puntos de fricción, además de aportar un sello distintivo que refuerza la identidad de la pieza. Su correcta elección y ubicación, junto con un respaldo adecuado de entretelas o estabilizadores, garantizan una integración armónica con la silueta y aseguran la durabilidad del acabado.
 
-
-    .mb-1(data-aos="fade-down")
+    .mb-4(data-aos="fade-down")
       .titulo-sexto.color-acento-contenido
-        h5 Tabla 20.
+        h5 Tabla 18.
         span Tipos de apliques y parches
       .tabla-a.color-acento-contenido
         table(alt="Tabla con dos categorías: apliques y parches. Cada fila presenta tipo, características, uso en prendas femeninas y ejemplos. Se describen bordados, encajes, cuero, impresiones y materiales como silicona para refuerzo o decoración en prendas.")
@@ -1242,6 +1234,13 @@
               td Zonas de alto desgaste como rodillas y codos.
               td #[em Leggings] con parches de silicona en rodillas.
 
+    .mb-1
+      .titulo-sexto.color-acento-contenido.mb-2
+        h5 Figura 56.
+        span Parches / apliques
+      figure.mb-2  
+        img.w-50.m-auto(src='@/assets/curso/temas/t3/fig56.png', alt='Prenda de mezclilla decorada con tres parches bordados: un arco curvo, una hoja y una palabra en letras grandes adherida sobre el bolsillo.')
+
 
     Separador
     #t_3_6.titulo-segundo.color-acento-contenido(data-aos='fade-right')
@@ -1259,29 +1258,11 @@
       img(src="@/assets/curso/temas/t4/subt.svg")
       h3.ps-3.pe-4.mb-0 Ojales y presillas 
     
-    .row.justify-content-center.align-items-center.mb-4
-      .col-lg-4.col-md-6.col-10.mb-4.mb-lg-0
-        .titulo-sexto.color-acento-contenido.mb-2
-          h5 Figura 57.
-          span Ojal cortado y rematado
-        figure.mb-3  
-          img(src='@/assets/curso/temas/t3/fig57.png', alt='Ilustración de unas manos realizando una costura con aguja e hilo. ')
-        figcaption Fuente: 
-          a(href="https://manualidades.facilisimo.com/reciclaje-de-ropa-tipos-de-sobrehilado-de-orillos-parte-2_1272178.html" target="_blank") https://manualidades.facilisimo.com/reciclaje-de-ropa-tipos-de-sobrehilado-de-orillos-parte-2_1272178.html
-      .col-lg-4.col-md-6.col-10.mb-4.mb-lg-0
-        .titulo-sexto.color-acento-contenido.mb-2
-          h5 Figura 58.
-          span Presilla de hilo
-        figure.mb-3  
-          img(src='@/assets/curso/temas/t3/fig58.png', alt='Una presilla de hilo en forma curvada con un botón.')
-        figcaption Fuente: 
-          a(href="https://www.elbauldelacosturera.com/2009/02/como-elaborar-las-presillas-con-hilo.html" target="_blank") https://www.elbauldelacosturera.com/2009/02/como-elaborar-las-presillas-con-hilo.html
-      .col-lg-4
-        p Los ojales y las presillas son elementos esenciales para la funcionalidad y el acabado de las prendas, ya que permiten la inserción de botones, cintas o cordones, además de reforzar zonas de tensión. Un ojal es una abertura rematada, ya sea mediante puntada en máquina o a mano, que presenta un borde limpio y resistente; las presillas, en cambio, son pequeños lazos de hilo, cinta o tela que se cosen sobre la superficie y actúan como anclaje para los botones. Ambos componentes deben contar con la rigidez suficiente para soportar el uso repetido y mantener la integridad de la prenda sin deformaciones.
+    p.mb-4 Los ojales y las presillas son elementos esenciales para la funcionalidad y el acabado de las prendas, ya que permiten la inserción de botones, cintas o cordones, además de reforzar zonas de tensión. Un ojal es una abertura rematada, ya sea mediante puntada en máquina o a mano, que presenta un borde limpio y resistente; las presillas, en cambio, son pequeños lazos de hilo, cinta o tela que se cosen sobre la superficie y actúan como anclaje para los botones. Ambos componentes deben contar con la rigidez suficiente para soportar el uso repetido y mantener la integridad de la prenda sin deformaciones.
 
     .mb-5(data-aos="fade-down")
       .titulo-sexto.color-acento-contenido.mb-3
-        h5 Tabla 21.
+        h5 Tabla 19.
         span Tipos de ojales y presillas
       .tabla-a.color-acento-contenido
         table(alt="Tabla con cuatro filas que describe tipos de ojales y presillas, detallando características, uso en prendas femeninas y ejemplos. Se incluyen aberturas en tejido, piezas metálicas o plásticas, y lazos de hilo o cinta aplicados en camisas, vestidos o chaquetas.")
@@ -1314,6 +1295,25 @@
               td Faldas con botonadura frontal, vestidos, cinturillas.
               td Presilla de cinta de algodón en faldas midi.
 
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-6.col-md-6.col-10.mb-4.mb-lg-0
+        .titulo-sexto.color-acento-contenido.mb-2
+          h5 Figura 57.
+          span Ojal cortado y rematado
+        figure.mb-3  
+          img.w-75.m-auto(src='@/assets/curso/temas/t3/fig57.png', alt='Ilustración de unas manos realizando una costura con aguja e hilo. ')
+        figcaption Fuente: 
+          a(href="https://manualidades.facilisimo.com/reciclaje-de-ropa-tipos-de-sobrehilado-de-orillos-parte-2_1272178.html" target="_blank") https://manualidades.facilisimo.com/reciclaje-de-ropa-tipos-de-sobrehilado-de-orillos-parte-2_1272178.html
+      .col-lg-6.col-md-6.col-10.mb-4.mb-lg-0
+        .titulo-sexto.color-acento-contenido.mb-2
+          h5 Figura 58.
+          span Presilla de hilo
+        figure.mb-3  
+          img.w-75.m-auto(src='@/assets/curso/temas/t3/fig58.png', alt='Una presilla de hilo en forma curvada con un botón.')
+        figcaption Fuente: 
+          a(href="https://www.elbauldelacosturera.com/2009/02/como-elaborar-las-presillas-con-hilo.html" target="_blank") https://www.elbauldelacosturera.com/2009/02/como-elaborar-las-presillas-con-hilo.html
+       
+
     .subt.mb-4(data-aos="fade")
       img(src="@/assets/curso/temas/t4/subt.svg")
       h3.ps-3.pe-4.mb-0 Forros y cintas de hombro
@@ -1328,7 +1328,7 @@
 
     .mb-2(data-aos="fade-down")
       .titulo-sexto.color-acento-contenido.mb-3
-        h5 Tabla 22.
+        h5 Tabla 20.
         span Tipos de forros y cintas de hombro
       .tabla-a.color-acento-contenido
         table(alt="Tabla que presenta cuatro categorías de tipos de forros y cintas, descritas con características, aplicabilidad y ejemplo en prendas.")

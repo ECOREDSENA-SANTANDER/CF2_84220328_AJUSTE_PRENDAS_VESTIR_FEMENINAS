@@ -258,7 +258,7 @@ export default {
         },
       ],
       mensaje_final_aprobado:
-        'El buen desempeño en la prueba, se evidencia una comprensión clara y rigurosa de los conceptos técnicos. ',
+        'Buen desempeño en la prueba, se evidencia una comprensión clara y rigurosa de los conceptos técnicos.',
       mensaje_final_reprobado:
         'No ha superado la actividad. Se recomienda revisar el componente formativo e intentar nuevamente la actividad didáctica. ',
     },

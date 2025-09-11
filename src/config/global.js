@@ -279,7 +279,8 @@ export default {
     {
       referencia:
         'Caro Preciado, Y., Hernández Fontal, N., & López Olarte, A. (2012). Manual digital de patronaje masculino casual. Fundación Universitaria del Área Andina.',
-      link: 'https://digitk.areandina.edu.co/handle/areandina/4269',
+      link:
+        'https://digitk.areandina.edu.co/entities/publication/8510aa8b-321c-4670-a702-74fc7a86ea1c',
     },
     {
       referencia:

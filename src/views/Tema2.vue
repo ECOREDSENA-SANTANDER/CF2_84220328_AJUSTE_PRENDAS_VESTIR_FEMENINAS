@@ -16,7 +16,7 @@
       .col-lg-4.col-md-8.mb-4.mb-lg-0
         img(src='@/assets/curso/temas/t2/2.png', alt='')
       .col-lg-5
-        p.mb-0 Las tijeras de confección y los cortahílos, junto con los tapetes de corte, aseguran cortes limpios y consistentes, condición imprescindible para que las piezas encajen sin fricción ni arrugas durante el ensamblaje. De igual manera, el uso de agujas apropiadas y prensatelas específicos (desde pies universales hasta soluciones diseñadas para tejidos elásticos o materiales pesados), permite controlar la presión sobre la tela y el desplazamiento del hilo, evitando deslizamientos indeseados y garantizando costuras uniformes. En el ajuste de prendas femeninas, donde los contornos resultan más delicados, esta precisión es clave para lograr un resultado cómodo, estético y técnicamente correcto.
+        p.mb-0 Las tijeras de confección y los cortahílos, junto con los tapetes de corte, aseguran cortes limpios y consistentes, condición imprescindible para que las piezas encajen sin fricción ni arrugas durante el ensamblaje. De igual manera, el uso de agujas apropiadas y prensatelas específicos (desde pies universales hasta soluciones diseñadas para tejidos elásticos o materiales pesados) permite controlar la presión sobre la tela y el desplazamiento del hilo, evitando deslizamientos indeseados y garantizando costuras uniformes. En el ajuste de prendas femeninas, donde los contornos resultan más delicados, esta precisión es clave para lograr un resultado cómodo, estético y técnicamente correcto. 
       .col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/temas/t2/3.svg', alt='')
 
@@ -174,12 +174,12 @@
                 .col-md-11.col-lg-6
                   h4 Prensatelas y pies de máquina
                   p Los prensatelas, conocidos también como pies de máquina, son accesorios intercambiables que presionan el tejido sobre la cama de la máquina durante el cosido. Existen versiones universales para costura recta y zigzag, así como modelos especializados para tejidos elásticos, cremalleras o dobladillos invisibles. La elección del pie adecuado influye directamente en el control del material: un prensatelas de doble arrastre evitará el deslizamiento de lonas o #[em jacquards], mientras que un pie para telas ligeras protegerá géneros delicados como gasa o encaje. En el contexto del ajuste de prendas femeninas, estos accesorios aseguran puntadas uniformes y evitan estiramientos o pliegues indeseados. 
-                .col-md-9.col-lg-4
+                .col-md-9.col-lg-3
                   .titulo-sexto.color-acento-contenido.mb-2
                     h5 Figura 22.
                     span Pie de máquina
                   figure.mb-2
-                    img.w-50(src='@/assets/curso/temas/t2/fig22.png', alt='Pieza metálica ubicada debajo de la aguja de una máquina de coser, compuesta por un prensatelas con abertura central por donde pasa el hilo, una ranura guía y tornillo ajustable en la parte superior para controlar la presión.')
+                    img(src='@/assets/curso/temas/t2/fig22.png', alt='Pieza metálica ubicada debajo de la aguja de una máquina de coser, compuesta por un prensatelas con abertura central por donde pasa el hilo, una ranura guía y tornillo ajustable en la parte superior para controlar la presión.')
                   figcaption Fuente: 
                     a(href="https://n9.cl/d8i6p" target="_blank") https://n9.cl/d8i6p 
               .row.justify-content-center.align-items-center(titulo="")
@@ -192,8 +192,6 @@
                     span Descosedor
                   figure.mb-3
                     img(src='@/assets/curso/temas/t2/fig23.png', alt='Herramienta manual con mango alargado y punta metálica curva en forma de horquilla, utilizada para abrir costuras o retirar hilos sin dañar la tela.')
-                  figcaption Fuente: 
-                    a(href="https://n9.cl/05u6p" target="_blank") https://n9.cl/05u6p
 
 
     Separador
@@ -218,8 +216,6 @@
                     span Tabla de planchar y plancha
                   figure.mb-2
                     img(src='@/assets/curso/temas/t2/fig24.png', alt='Se expone una tabla con soporte en forma de cruz y superficie acolchada, sobre la cual se apoya una prenda extendida; encima hay un dispositivo de planchado con cable y salida de vapor.')
-                  figcaption Fuente: 
-                    a(href="https://n9.cl/a6uata" target="_blank") https://n9.cl/a6uata 
               .row.justify-content-center.align-items-center(titulo="")
                 .col-md-6.col-lg-5
                   h4 Manivelas de ojales y punzones

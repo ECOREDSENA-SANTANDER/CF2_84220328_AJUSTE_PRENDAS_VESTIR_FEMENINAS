@@ -195,6 +195,8 @@
             span Máquina semiindustrial
           figure
             img(src='@/assets/curso/temas/t1/fig3.png', alt='Máquina de coser con estructura robusta. Presenta dos perillas frontales circulares para seleccionar funciones y puntadas, una palanca para el prensatelas, y base amplia con brazo libre. Incluye compartimiento superior para accesorios.')
+          figcaption Fuente: 
+            a(href="https://www.singer.com/fr-ca/products/singer-heavy-duty-4432-sewing-machine bvstate=pg%3A2%2Fct%3Ar&variant=47703952687383" target="_blank") https://www.singer.com/fr-ca/products/singer-heavy-duty-4432-sewing-machine bvstate=pg%3A2%2Fct%3Ar&variant=47703952687383
       .col-lg-8(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
           h5 Tabla 2.
@@ -481,6 +483,13 @@
             .bg-4.w-fit.m-auto.mb-4.py-1.px-5
               h4.text-center.mb-0 Barra prensatelas y su tornillo de ajuste
             p.text-center Imagine que es una mano que sujeta la tela para que no se mueva mientras cose. Gracias al tornillo, puede apretar más o menos según el tipo de tela: desde una seda suave hasta un #[em jean] grueso.
+          .tarjeta.bg-1.p-4
+            .row.justify-content-center.mb-3
+              .col-5.col-md-3.col-lg-4
+                img.h-99(src='@/assets/curso/temas/t1/tarj2-7.svg' alt='')
+            .bg-4.w-fit.m-auto.mb-4.py-1.px-5
+              h4.text-center.mb-0 Dientes de arrastre y el prensatelas
+            p.text-center Trabajan en equipo para mover la tela paso a paso, con el ritmo exacto. Los dientes empujan desde abajo y el prensatelas guía desde arriba. Además, se pueden cambiar según la tela que vayas a trabajar: liviana, media o pesada.
 
     .row.bgcolor-1.align-items-center.p-2.p-md-4(data-aos="fade")
       .col-lg-12.col-12.px-lg-4
@@ -660,7 +669,7 @@
                 .col-12.col-lg-7.mb-4.mb-lg-0
                   .bg-12.tarjeta.p-3
                     .titulo-sexto.color-acento-contenido.mb-3
-                      h5 Tabla 5.
+                      h5 Tabla 4.
                       span Tipos de calibres en agujas
                     .tabla-a.color-acento-contenido.mw-300
                       table(alt="Tabla de tres columnas con información de equivalencias numéricas para calibres de aguja. La primera columna presenta valores del sistema métrico, la segunda los valores del sistema inglés y la tercera la conversión en milímetros. Los valores avanzan progresivamente desde 70 a 120 en el sistema métrico, y desde 0,7 a 1,2 mm en equivalencia.")
@@ -702,7 +711,7 @@
                 .col-12.col-lg-7.mb-4.mb-lg-0
                   .bg-12.tarjeta.p-3
                     .titulo-sexto.color-acento-contenido
-                      h5 Tabla 6.
+                      h5 Tabla 5.
                       span Tipos de aguja según máquina
                     .tabla-a.color-acento-contenido.mw-300
                       table(alt="Tabla con dos columnas. La primera columna contiene el nombre de diferentes tipos de máquinas de coser, como planas, recubridora, zigzag, dos agujas y fileteadora. La segunda columna indica el tipo de aguja correspondiente a cada máquina, con referencias como “16 x 231 cabo delgado”, “135 x 5 cabo grueso”, “B63” y “B27”.")
