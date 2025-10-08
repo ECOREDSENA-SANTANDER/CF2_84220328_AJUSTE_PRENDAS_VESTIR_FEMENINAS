@@ -65,8 +65,6 @@
                     span Ruleta de marcar
                   figure
                     img(src='@/assets/curso/temas/t2/fig15.png', alt='Herramienta de trazo con mango de madera y rueda metálica dentada, utilizada para transferir marcas o líneas sobre tela o papel.')
-                  figcaption Fuente: 
-                    a(href="https://escueladeindumentaria.com/ruleta-de-costura-que-es-y-para-que-se-utiliza/" target="_blank") https://escueladeindumentaria.com/ruleta-de-costura-que-es-y-para-que-se-utiliza/ 
               .row.justify-content-around.align-items-center
                 .col-lg-5.col-md-11
                   h4 Tiza y lápices de sastre
@@ -77,9 +75,7 @@
                     span Tiza para marcar
                   figure.mb-2
                     img(src='@/assets/curso/temas/t2/fig16.png', alt='Manos realizando una línea sobre tela con ayuda de una regla y una pieza de tiza de sastre, herramienta usada para marcar patrones y líneas de corte en confección.')
-                  figcaption Fuente: 
-                    a(href="https://n9.cl/x34s6j" target="_blank") https://n9.cl/x34s6j
-
+                  
 
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
@@ -103,8 +99,6 @@
                     span Tijeras de corte
                   figure.mb-2
                     img(src='@/assets/curso/temas/t2/fig17.png', alt='Tres tijeras de sastre con mangos grandes y hojas alargadas están dispuestas sobre una superficie plana, acompañadas por hilos enrollados en carretes de madera, utilizados en trabajos de confección.')
-                  figcaption Fuente: 
-                    a(href="https://n9.cl/21hyxb" target="_blank") https://n9.cl/21hyxb  
               .row.justify-content-center.align-items-center(titulo="Tijeras de precisión y bordes")
                 .col-md-6.col-lg-5
                   h4 Tijeras de precisión y bordes
@@ -126,9 +120,7 @@
                     h5 Figura 19. 
                     span Cúter de tela
                   figure.mb-2
-                    img(src='@/assets/curso/temas/t2/fig19.png', alt='Herramienta de corte manual con forma compacta y hojas afiladas, acompañada por varias bobinas de hilo dispuestas sobre una superficie de tejido.')
-                  figcaption Fuente: 
-                    a(href="https://n9.cl/x4cpmi" target="_blank") https://n9.cl/x4cpmi 
+                    img(src='@/assets/curso/temas/t2/fig19.png', alt='Herramienta de corte manual con forma compacta y hojas afiladas, acompañada por varias bobinas de hilo dispuestas sobre una superficie de tejido.') 
               .row.justify-content-center.align-items-center(titulo="Tapete de corte")
                 .col-md-6.col-lg-5
                   h4 Tapete de corte
@@ -139,12 +131,7 @@
                     span Tapete verde de corte
                   figure.mb-2
                     img(src='@/assets/curso/temas/t2/fig20.png', alt='Superficie de corte con cuadrícula sobre la que se encuentran distribuidos diversos materiales de papelería, incluyendo papeles de colores, tijeras, lápices, regla metálica, borrador, cutter y otros utensilios, mientras dos manos trazan una línea con lápiz sobre una hoja sostenida.')
-                  figcaption Fuente: 
-                    a(href="https://n9.cl/3pzp4" target="_blank") https://n9.cl/3pzp4 
               
-
-
-
 
     Separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
@@ -168,8 +155,6 @@
                     span Alfileres y agujas de mano
                   figure.mb-2
                     img(src='@/assets/curso/temas/t2/fig21.png', alt='Conjunto de elementos punzantes utilizados en costura que incluyen alfileres con cabeza esférica, agrupados sueltos y en una rueda organizadora; imperdibles metálicos en diferentes posiciones; y agujas enhebradas con hilo distribuidas de manera vertical.')
-                  figcaption Fuente: 
-                    a(href="https://n9.cl/7araj" target="_blank") https://n9.cl/7araj 
               .row.justify-content-center.align-items-center(titulo="")
                 .col-md-11.col-lg-6
                   h4 Prensatelas y pies de máquina
@@ -180,8 +165,6 @@
                     span Pie de máquina
                   figure.mb-2
                     img(src='@/assets/curso/temas/t2/fig22.png', alt='Pieza metálica ubicada debajo de la aguja de una máquina de coser, compuesta por un prensatelas con abertura central por donde pasa el hilo, una ranura guía y tornillo ajustable en la parte superior para controlar la presión.')
-                  figcaption Fuente: 
-                    a(href="https://n9.cl/d8i6p" target="_blank") https://n9.cl/d8i6p 
               .row.justify-content-center.align-items-center(titulo="")
                 .col-md-11.col-lg-5
                   h4 Dedal y retorcedor de hilo
@@ -238,8 +221,6 @@
                     span Rodillo quitapelusas
                   figure.mb-2
                     img(src='@/assets/curso/temas/t2/fig26.png', alt='Una persona utiliza un rodillo adhesivo de mango corto sobre una prenda extendida, realizando movimientos lineales para retirar partículas o pelusas de la superficie del tejido.')
-                  figcaption Fuente: 
-                    a(href="https://n9.cl/tdvms" target="_blank") https://n9.cl/tdvms 
 
 
 

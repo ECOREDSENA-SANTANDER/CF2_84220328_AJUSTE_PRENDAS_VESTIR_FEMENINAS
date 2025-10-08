@@ -377,7 +377,7 @@
                         span Puntada clase 100
                       figure.mb-2  
                         img(src='@/assets/curso/temas/t3/fig32.png', alt='Puntada formada por bucles que se entrelazan en línea horizontal, generando una cadena continua sobre la superficie. Se identifica como clase 100 y se utiliza comúnmente para costuras temporales o decorativas.')
-                      figcaption Fuente: 
+                      figcaption.des Fuente: 
                         a(href="https://seampedia.com/clasificacion-de-costura-segun-tipo-puntada/" target="_blank") https://seampedia.com/clasificacion-de-costura-segun-tipo-puntada/
                 .tarjeta.bg-14.p-4.px-lg-5
                   .row.justify-content-center.align-items-center.mb-3
@@ -392,7 +392,7 @@
                         span Puntada clase 200 
                       figure.mb-2  
                         img(src='@/assets/curso/temas/t3/fig33.png', alt='Puntadas individuales dispuestas en línea horizontal, realizadas una por una con hilo continuo.')
-                      figcaption Fuente: 
+                      figcaption.des Fuente: 
                         a(href="https://seampedia.com/clasificacion-de-costura-segun-tipo-puntada/" target="_blank") https://seampedia.com/clasificacion-de-costura-segun-tipo-puntada/
                 .tarjeta.bg-14.p-4.px-lg-5
                   .row.justify-content-center.align-items-center.mb-3
@@ -407,7 +407,7 @@
                         span Puntada clase 300
                       figure.mb-2  
                         img(src='@/assets/curso/temas/t3/fig34.png', alt='Puntadas alineadas que atraviesan la tela de arriba hacia abajo y regresan, formando un trazo firme en ambas caras.')
-                      figcaption Fuente: 
+                      figcaption.des Fuente: 
                         a(href="https://seampedia.com/clasificacion-de-costura-segun-tipo-puntada/" target="_blank") https://seampedia.com/clasificacion-de-costura-segun-tipo-puntada/
                 .tarjeta.bg-14.p-4.px-lg-5
                   .row.justify-content-center.align-items-center.mb-3
@@ -422,7 +422,7 @@
                         span Puntada clase 400
                       figure.mb-2  
                         img(src='@/assets/curso/temas/t3/fig35.png', alt='Puntadas formadas por dos hilos que se entrelazan en zigzag en la parte inferior y recto en la superior, creando una unión flexible.')
-                      figcaption Fuente: 
+                      figcaption.des Fuente: 
                         a(href="https://seampedia.com/clasificacion-de-costura-segun-tipo-puntada/" target="_blank") https://seampedia.com/clasificacion-de-costura-segun-tipo-puntada/
                 .tarjeta.bg-14.p-4.px-lg-5
                   .row.justify-content-center.align-items-center.mb-3
@@ -437,7 +437,7 @@
                         span Puntada clase 500
                       figure.mb-2
                         img(src='@/assets/curso/temas/t3/fig36.png', alt='Puntadas que envuelven el borde de la tela con múltiples hilos entrelazados, formando una unión cerrada y continua.')
-                      figcaption Fuente: 
+                      figcaption.des Fuente: 
                         a(href="https://seampedia.com/clasificacion-de-costura-segun-tipo-puntada/" target="_blank") https://seampedia.com/clasificacion-de-costura-segun-tipo-puntada/
                 .tarjeta.bg-14.p-4.px-lg-5
                   .row.justify-content-center.align-items-center.mb-3
@@ -452,7 +452,7 @@
                         span Puntada clase 600
                       figure.mb-2
                         img(src='@/assets/curso/temas/t3/fig37.png', alt='Puntadas múltiples que cubren por completo la unión de las telas, con hilos visibles en ambos lados y entrelazados en zigzag en la parte inferior.')
-                      figcaption Fuente: 
+                      figcaption.des Fuente: 
                         a(href="https://seampedia.com/clasificacion-de-costura-segun-tipo-puntada/" target="_blank") https://seampedia.com/clasificacion-de-costura-segun-tipo-puntada/
 
     .tarjeta.bg-3.p-3.py-md-4(data-aos="fade")
@@ -503,8 +503,6 @@
               span Entretela
             figure.mb-2
               img(src='@/assets/curso/temas/t3/fig38.png', alt='Bolsa de papel con forma trapezoidal, pliegues laterales hacia adentro y borde inferior con terminación en picos.')
-            figcaption Fuente: 
-              a(href="https://n9.cl/28rw01" target="_blank") https://n9.cl/28rw01
         .row.justify-content-around.align-items-center
           .col-lg-5.col-md-11
             p Los estabilizadores, por su parte, se clasifican según su modo de retirada:
@@ -524,9 +522,6 @@
               span Estabilizadores para tela
             figure.mb-2
               img(src='@/assets/curso/temas/t3/fig39.png', alt='Rollos de tela colocados en posición horizontal sobre una estructura metálica con barras cilíndricas.')
-            figcaption Fuente: 
-              a(href="https://n9.cl/y66ks" target="_blank") https://n9.cl/y66ks
-
 
     .subt.mb-4(data-aos="fade")
       img(src="@/assets/curso/temas/t4/subt.svg")
@@ -662,10 +657,7 @@
         h5 Figura 40.
         span Tipos de cremalleras
       figure
-        img.w-50.m-auto(src='@/assets/curso/temas/t3/fig40.png', alt='Serie de siete cremalleras alineadas en vertical, con variaciones en el diseño del deslizador y forma de los dientes.')
-      figcaption Fuente: 
-        a(href="https://n9.cl/fr05z" target="_blank") https://n9.cl/fr05z 
-    
+        img.w-50.m-auto(src='@/assets/curso/temas/t3/fig40.svg', alt='Serie de siete cremalleras alineadas en vertical, con variaciones en el diseño del deslizador y forma de los dientes.')
 
     .subt.mb-4(data-aos="fade")
       img(src="@/assets/curso/temas/t4/subt.svg")
@@ -714,17 +706,12 @@
           span Botones de presión
         figure 
           img.w-75.m-auto(src='@/assets/curso/temas/t3/fig41.png', alt='Seis botones metálicos dispuestos en dos filas, con formas circulares y cuadradas, superficies lisas o con relieve.')
-        figcaption Fuente: 
-          a(href="https://n9.cl/6gns81" target="_blank") https://n9.cl/6gns81
       .col-lg-6.col-md-6.col-10.mb-4.mb-md-0
         .titulo-sexto.color-acento-contenido.mb-2
           h5 Figura 42.
           span Botones metálicos y plásticos
         figure.mb-3.mb-lg-4 
           img.w-75.m-auto(src='@/assets/curso/temas/t3/fig42.png', alt='Superficie cubierta por botones de distintos tamaños, materiales y formas, distribuidos de manera uniforme sobre fondo de madera.')
-        figcaption Fuente: 
-          a(href="https://n9.cl/norqz" target="_blank") https://n9.cl/norqz 
-
 
     .subt.mb-4(data-aos="fade")
       img(src="@/assets/curso/temas/t4/subt.svg")
@@ -851,8 +838,6 @@
           .col-lg-8.col-md-9
             figure.mb-3 
               img(src='@/assets/curso/temas/t3/fig45.png', alt='Tijeras abiertas cortando una cinta ondulada dispuesta en diagonal.')
-        figcaption Fuente: 
-          a(href="https://n9.cl/1rncsv" target="_blank") https://n9.cl/1rncsv
       .col-lg-6.col-md-6.col-10.mb-4.mb-lg-0
         .titulo-sexto.color-acento-contenido.mb-2
           h5 Figura 46.          
@@ -861,9 +846,6 @@
           .col-lg-8.col-md-9
             figure.mb-3 
               img(src='@/assets/curso/temas/t3/fig46.png', alt='Doce cintas decorativas dispuestas en filas, con patrones geométricos repetitivos y bordes recortados en forma de ondas o picos.')
-        figcaption Fuente: 
-          a(href="https://n9.cl/8knqf" target="_blank") https://n9.cl/8knqf
-
 
     .subt.mb-4(data-aos="fade")
       img(src="@/assets/curso/temas/t4/subt.svg")
@@ -918,8 +900,6 @@
           span Velcro
         figure.mb-3  
           img(src='@/assets/curso/temas/t3/fig47.png', alt='Dos tiras textiles superpuestas, una con superficie de ganchos rígidos y otra con bucles suaves, unidas por contacto a presión.')
-        figcaption Fuente: 
-          a(href="https://n9.cl/vvyxx" target="_blank") https://n9.cl/vvyxx
 
     .mb-1(data-aos="fade-down")
       .titulo-sexto.color-acento-contenido.mb-3
@@ -989,8 +969,6 @@
               span Encaje #[em chantilly]
             figure.mb-2  
               img(src='@/assets/curso/temas/t3/fig48.png', alt='Tejido calado con diseño floral repetitivo, compuesto por formas curvas, espirales y entramados finos.')
-            figcaption Fuente: 
-              a(href="https://n9.cl/qvrtc" target="_blank") https://n9.cl/qvrtc
           .col-10.col-md-6.col-lg-7
             ul.lista-ul--color.fa-lista
               li.mb-4
@@ -1010,8 +988,6 @@
               span Encaje #[em guipur]
             figure.mb-2  
               img(src='@/assets/curso/temas/t3/fig49.png', alt='Siete franjas horizontales con encajes decorativos, cada una con patrones simétricos de flores, ondas o puntas, sobre fondo liso.')
-            figcaption Fuente: 
-              a(href="https://n9.cl/nlgfo" target="_blank") https://n9.cl/nlgfo
           .col-10.col-md-6.col-lg-7
             ul.lista-ul--color.fa-lista
               li.mb-4
@@ -1031,8 +1007,6 @@
               span Encaje veneciano
             figure.mb-2  
               img(src='@/assets/curso/temas/t3/fig50.png', alt='Tela transparente con bordado de flores y hojas, dispuestas en dos franjas verticales con detalles simétricos y contornos definidos.')
-            figcaption Fuente: 
-              a(href="https://n9.cl/efcpbr" target="_blank") https://n9.cl/efcpbr
           .col-10.col-md-6.col-lg-7
             ul.lista-ul--color.fa-lista
               li.mb-4
@@ -1052,8 +1026,6 @@
               span Tul bordado
             figure.mb-2  
               img(src='@/assets/curso/temas/t3/fig51.png', alt='Diseño textil compuesto por franjas horizontales con patrones de zigzag y manchas irregulares, decorado con puntos brillantes distribuidos en toda la superficie.')
-            figcaption Fuente: 
-              a(href="https://n9.cl/cziha9" target="_blank") https://n9.cl/cziha9
           .col-10.col-md-6.col-lg-7
             ul.lista-ul--color.fa-lista
               li.mb-4
@@ -1094,8 +1066,6 @@
               span Encaje #[em Schiffli]
             figure.mb-2  
               img(src='@/assets/curso/temas/t3/fig53.png', alt='Encaje con dos secciones diferenciadas: una superior con flores en relieve y otra inferior con figuras geométricas caladas, unidas por una línea diagonal decorativa.')
-            figcaption Fuente: 
-              a(href="https://n9.cl/qluah" target="_blank") https://n9.cl/qluah
           .col-10.col-md-6.col-lg-7
             ul.lista-ul--color.fa-lista
               li.mb-4
@@ -1121,16 +1091,12 @@
           span Piedras para uso textil
         figure.mb-2  
           img(src='@/assets/curso/temas/t3/fig54.png', alt='Caja con compartimientos que contienen piedras de diversos tamaños, junto a tijeras, apliques bordados, cinta textil y piezas decorativas circulares.')
-        figcaption Fuente: 
-          a(href="https://n9.cl/q9lt2" target="_blank") https://n9.cl/q9lt2
       .col-lg-3.col-md-6.col-10
         .titulo-sexto.color-acento-contenido.mb-2
           h5 Figura 55.
           span Lentejuelas
         figure.mb-2  
           img(src='@/assets/curso/temas/t3/fig55.png', alt='Superficie cubierta por lentejuelas circulares dispuestas en sentido uniforme, generando un efecto brillante y reflectante.')
-        figcaption Fuente: 
-          a(href="https://n9.cl/lu67y" target="_blank") https://n9.cl/lu67y
 
     .mb-5(data-aos="fade-down")
       .titulo-sexto.color-acento-contenido
@@ -1295,21 +1261,19 @@
               td Faldas con botonadura frontal, vestidos, cinturillas.
               td Presilla de cinta de algodón en faldas midi.
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.mb-4
       .col-lg-6.col-md-6.col-10.mb-4.mb-lg-0
         .titulo-sexto.color-acento-contenido.mb-2
           h5 Figura 57.
           span Ojal cortado y rematado
         figure.mb-3  
-          img.w-75.m-auto(src='@/assets/curso/temas/t3/fig57.png', alt='Ilustración de unas manos realizando una costura con aguja e hilo. ')
-        figcaption Fuente: 
-          a(href="https://manualidades.facilisimo.com/reciclaje-de-ropa-tipos-de-sobrehilado-de-orillos-parte-2_1272178.html" target="_blank") https://manualidades.facilisimo.com/reciclaje-de-ropa-tipos-de-sobrehilado-de-orillos-parte-2_1272178.html
+          img(src='@/assets/curso/temas/t3/fig57.png', alt='Ilustración de unas manos realizando una costura con aguja e hilo. ')
       .col-lg-6.col-md-6.col-10.mb-4.mb-lg-0
         .titulo-sexto.color-acento-contenido.mb-2
           h5 Figura 58.
           span Presilla de hilo
         figure.mb-3  
-          img.w-75.m-auto(src='@/assets/curso/temas/t3/fig58.png', alt='Una presilla de hilo en forma curvada con un botón.')
+          img(src='@/assets/curso/temas/t3/fig58.png', alt='Una presilla de hilo en forma curvada con un botón.')
         figcaption Fuente: 
           a(href="https://www.elbauldelacosturera.com/2009/02/como-elaborar-las-presillas-con-hilo.html" target="_blank") https://www.elbauldelacosturera.com/2009/02/como-elaborar-las-presillas-con-hilo.html
        

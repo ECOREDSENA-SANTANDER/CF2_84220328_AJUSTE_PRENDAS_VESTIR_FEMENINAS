@@ -195,8 +195,8 @@
             span Máquina semiindustrial
           figure
             img(src='@/assets/curso/temas/t1/fig3.png', alt='Máquina de coser con estructura robusta. Presenta dos perillas frontales circulares para seleccionar funciones y puntadas, una palanca para el prensatelas, y base amplia con brazo libre. Incluye compartimiento superior para accesorios.')
-          figcaption Fuente: 
-            a(href="https://www.singer.com/fr-ca/products/singer-heavy-duty-4432-sewing-machine bvstate=pg%3A2%2Fct%3Ar&variant=47703952687383" target="_blank") https://www.singer.com/fr-ca/products/singer-heavy-duty-4432-sewing-machine bvstate=pg%3A2%2Fct%3Ar&variant=47703952687383
+          figcaption.des Fuente: 
+            a(href="https://flamingo.vteximg.com.br/arquivos/ids/174362-412-528/7393033099411--1-.jpg?v=637257653012400000" target="_blank") https://flamingo.vteximg.com.br/arquivos/ids/174362-412-528/7393033099411--1-.jpg?v=637257653012400000
       .col-lg-8(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
           h5 Tabla 2.
