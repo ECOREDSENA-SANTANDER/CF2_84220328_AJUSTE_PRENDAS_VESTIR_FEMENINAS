@@ -194,7 +194,7 @@
             h5 Figura 3.
             span Máquina semiindustrial
           figure
-            img(src='@/assets/curso/temas/t1/fig3.png', alt='Máquina de coser con estructura robusta. Presenta dos perillas frontales circulares para seleccionar funciones y puntadas, una palanca para el prensatelas, y base amplia con brazo libre. Incluye compartimiento superior para accesorios.')
+            img(src='@/assets/curso/temas/t1/fig3.png', alt='Máquina de coser semiindustrial con controles frontales de puntada, base amplia y brazo libre para confección de piezas tubulares y trabajos continuos.')
           figcaption.des Fuente: 
             a(href="https://flamingo.vteximg.com.br/arquivos/ids/174362-412-528/7393033099411--1-.jpg?v=637257653012400000" target="_blank") https://flamingo.vteximg.com.br/arquivos/ids/174362-412-528/7393033099411--1-.jpg?v=637257653012400000
       .col-lg-8(data-aos="fade-left")
