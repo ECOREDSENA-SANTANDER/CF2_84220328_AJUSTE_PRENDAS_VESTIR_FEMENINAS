@@ -1267,7 +1267,8 @@
           h5 Figura 57.
           span Ojal cortado y rematado
         figure.mb-3  
-          img(src='@/assets/curso/temas/t3/fig57.png', alt='Ilustración de unas manos realizando una costura con aguja e hilo. ')
+          img(src='@/assets/curso/temas/t3/fig57.png', alt='Proceso de confección de un ojal a mano mediante corte, refuerzo de bordes, pespunte alrededor y remate final para asegurar resistencia y acabado limpio.')
+        figcaption Fuente: PATRONES DE COSTURA. (s. f.). Tutorial: cómo hacer ojales 
       .col-lg-6.col-md-6.col-10.mb-4.mb-lg-0
         .titulo-sexto.color-acento-contenido.mb-2
           h5 Figura 58.
