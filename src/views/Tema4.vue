@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Manejo de máquinas y espació de trabajo
+      h1 Manejo de máquinas y espacio de trabajo
 
     .bloque-texto-g.bloque-texto-g--inverso.bg-2.p-3.p-sm-4.p-md-5.mb-4(data-aos="fade-down")
       .bloque-texto-g__img(:style="{'background-image':`url(${require('@/assets/curso/temas/t4/1.png')})`}")
@@ -372,12 +372,12 @@
                     li
                       .lista-ol--cuadro__vineta
                         span.fw-bold c.
-                      span.mb-0 Operaciones básicas para el manejo en máquina plana una aguja.#[br] Paso 3. Costuras a alforzas de 1 16”.
+                      span.mb-0 Operaciones básicas para el manejo en máquina plana una aguja.#[br] Paso 3. Costuras a alforzas de 1/16".
                 .col-lg-6
                   figure
                     .video
                       iframe(width="560" height="315" src="https://www.youtube.com/embed/FjBGuqsTE5c?si=uuvCx2fe5tGGrr-4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                  figcaption Video. Operaciones básicas para el manejo en máquina plana una aguja. Paso 3. Costuras a alforzas de 1 16”.
+                  figcaption Video. Operaciones básicas para el manejo en máquina plana una aguja. Paso 3. Costuras a alforzas de 1/16".
               .row.justify-content-center.align-items-center(titulo="Paso 4")
                 .col-lg-4
                   ol.lista-ol--cuadro.color-2.fa-lista

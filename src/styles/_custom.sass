@@ -354,7 +354,6 @@ ul.circle i
     @media (max-width: $bp-max-sm)
       display: none
 .tabla3 table  
-  min-width: 360px
   th, td
     padding: 10px
     border: 5px solid #F3F9FF
@@ -366,7 +365,12 @@ ul.circle i
       background-color: #DEE4F0
 .mw-300 table  
   min-width: 360px    
-  
+  @media (max-width: $bp-max-xs)
+    min-width: 500px
+.ma-p
+  th, td
+    padding: 8px
+
 .tarjeta-btn
   background-color: #ECE7F6
   transition: all 0.3s ease-out
@@ -411,3 +415,10 @@ ul.circle i
     .crd_hover_txt--body
       p
         font-size: 0.85em
+
+.hilo
+  position: relative
+  .img-deco
+    position: absolute
+    right: 9%
+    bottom: 0px

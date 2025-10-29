@@ -12,7 +12,7 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 La identificación de las máquinas y equipos utilizados en la confección de prendas permite optimizar, facilitar y organizar de manera eficiente los distintos procesos productivos del sector, no solo optimiza el flujo de trabajo, sino que también mejora la calidad final de las prendas, reduce errores y favorece un uso eficiente de los recursos. Ahora el concepto de identificación de maquinaria comprende el análisis de las características técnicas de cada equipo, su funcionalidad dentro del proceso de confección, y su clasificación según las líneas de producción a las que pertenece; esto incluye el conocimiento de los tipos de puntadas que ejecuta cada máquina, los sistemas de tomadores de lazada, los mecanismos de alimentación o arrastre del tejido, y sus aplicaciones específicas según el tipo de prenda o material a trabajar.
 
-    .bg-color-primario.text-center.p-3(data-aos="fade")
+    .bg-color-primario.p-3(data-aos="fade")
       p.mb-0 Este dominio técnico es fundamental para garantizar la precisión, la productividad y la seguridad en los entornos de confección.
 
     
@@ -195,8 +195,6 @@
             span Máquina semiindustrial
           figure
             img(src='@/assets/curso/temas/t1/fig3.png', alt='Máquina de coser semiindustrial con controles frontales de puntada, base amplia y brazo libre para confección de piezas tubulares y trabajos continuos.')
-          figcaption.des Fuente: 
-            a(href="https://flamingo.vteximg.com.br/arquivos/ids/174362-412-528/7393033099411--1-.jpg?v=637257653012400000" target="_blank") https://flamingo.vteximg.com.br/arquivos/ids/174362-412-528/7393033099411--1-.jpg?v=637257653012400000
       .col-lg-8(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
           h5 Tabla 2.
@@ -287,7 +285,7 @@
                       span.mb-0 Coser y cortar: fileteadoras simples y con puntada de seguridad.
                     li.mb-1
                       i.fas.fa-circle
-                      span.mb-0 Recubridoras, pretinadoras, multiaquías.
+                      span.mb-0 Recubridoras, pretinadoras, multiagujas.
                     li.mb-0
                       i.fas.fa-circle
                       span.mb-0 Cerradoras de codo.
@@ -489,7 +487,7 @@
                 img.h-99(src='@/assets/curso/temas/t1/tarj2-7.svg' alt='')
             .bg-4.w-fit.m-auto.mb-4.py-1.px-5
               h4.text-center.mb-0 Dientes de arrastre y el prensatelas
-            p.text-center Trabajan en equipo para mover la tela paso a paso, con el ritmo exacto. Los dientes empujan desde abajo y el prensatelas guía desde arriba. Además, se pueden cambiar según la tela que vayas a trabajar: liviana, media o pesada.
+            p.text-center Trabajan en equipo para mover la tela paso a paso, con el ritmo exacto. Los dientes empujan desde abajo y el prensatelas guía desde arriba. Además, se pueden cambiar según la tela que se esté trabajando: liviana, media o pesada.
 
     .row.bgcolor-1.align-items-center.p-2.p-md-4(data-aos="fade")
       .col-lg-12.col-12.px-lg-4
@@ -573,7 +571,7 @@
       h2 1.5.	Complementos esenciales en la maquinaria de confección
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
-      .col-lg-5.mb-4.mb-lg-0
+      .col-lg-5.col-md-10.mb-4.mb-lg-0
         img(src='@/assets/curso/temas/t1/18.png', alt='')
       .col-lg-2.col-md-2.col-3
         img.px-lg-4(src='@/assets/curso/temas/t1/19.svg', alt='')
@@ -601,7 +599,7 @@
         .bg-2.mb-2.px-lg-4.p-3
           figure
             img(src='@/assets/curso/temas/t1/fig10.svg', alt='Representa el funcionamiento del diente de arrastre en una máquina de coser. Se ilustra cómo las puntas en forma de sierra del componente hacen contacto con el tejido en su parte inferior, generando fricción para desplazarlo de manera controlada durante el proceso de costura.')
-        figcaption SENA, (2021)
+        figcaption Fuente: SENA, (2021)
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
@@ -610,7 +608,7 @@
             .col-lg-8        
               p Los dientes de arrastre se clasifican según su densidad por pulgada lineal, lo que determina la cantidad de puntos de contacto con la tela. Para tejidos planos o medianos, los más comunes son los de 16, 18, 20 o 24 dientes por pulgada. En cambio, para materiales más compactos y resistentes, como el cuero o la lona, se prefieren dientes más separados, con una distancia de hasta 2,5 mm entre ellos.
               p.mb-0 En algunos casos, especialmente cuando se supera la densidad de 24 dientes por pulgada (como en ciertas máquinas domésticas), se emplean dientes de perfil piramidal, que mejoran el agarre sin dañar tejidos delicados. También es importante tener en cuenta el número de hileras de dientes, ya que este factor aumenta la superficie de fricción y mejora el transporte de materiales difíciles.
-            .col-lg-4.col-md-6.col-10
+            .col-lg-4.col-md-4.col-7
               img(src='@/assets/curso/temas/t1/20.png', alt='')
       .col-lg-4(data-aos="fade-left")
         p Una selección incorrecta del diente de arrastre puede afectar gravemente la calidad de la costura. Por ejemplo, si se emplea un diente muy separado en telas finas, estas pueden introducirse demasiado entre los surcos, generando fruncidos, recogidos o deformaciones. Esto no solo afecta la estética, sino también la funcionalidad de la prenda.
@@ -641,119 +639,153 @@
                 img(src='@/assets/curso/temas/t1/fig12.svg', alt='Dos líneas paralelas recorren la parte superior de la imagen, mientras una secuencia diagonal en forma de zigzag se desarrolla entre una base rectangular inferior y una línea recta intermedia, generando un patrón uniforme y cerrado.')
         figcaption Fuente: SENA, (2021)
 
-    TabsC.color-primario.mb-5(data-aos="fade")
-      .bg-14.py-4.py-md-5(titulo="Prensatelas")
-        .row.justify-content-center.align-items-center
-          .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
-            img(src='@/assets/curso/temas/t1/tab1.png', alt='')
-          .col-10.col-lg-6
-            p Es el componente responsable de ejercer presión sobre la capa superior del tejido, manteniéndolo firme contra los dientes de arrastre para garantizar un avance uniforme. La fuerza aplicada debe adaptarse al grosor y la naturaleza del material: una presión excesiva puede comprimir en demasía la pieza, provocando que el diente dañe la tela al ascender o genere un recogido visible en la cara inferior y una superficie lisa en el derecho; por el contrario, una presión insuficiente impide que el tejido se incruste correctamente entre los dientes, produciendo deslizamientos (“pega”) y variaciones en la densidad de puntadas.
-            p Para optimizar la calidad de la costura, el ancho de la base del prensatelas debe cubrir al menos el 90 % del recorrido del diente, asegurando una sujeción homogénea. La regulación del tornillo de presión del prensatelas permite ajustar este contacto según el tipo de fibra y el espesor del textil, de modo que cada puntada se forme con precisión y sin comprometer la integridad de la prenda.
-      .bg-14.py-4.py-md-5(titulo="Planchuela")
-        .row.justify-content-center.align-items-center
-          .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
-            img(src='@/assets/curso/temas/t1/tab2.png', alt='')
-          .col-10.col-lg-6
-            p Actúa como soporte del tejido durante la fase de retroceso del diente de arrastre y posee un orificio calibrado para el paso de la aguja, cuyo diámetro debe ser aproximadamente un 40 % mayor que el grosor de la hoja de la aguja empleada. Además, cuenta con canales longitudinales (o carriles) cuya cantidad coincide con la de hileras de dientes, de modo que cada diente pueda deslizarse a lo largo de todo su recorrido sin desviarse. Este diseño garantiza un alineamiento preciso entre diente y planchuela, asegurando un transporte uniforme del material y evitando desgastes prematuros o atrapamientos durante el ciclo de costura.
-      .bg-14.py-4.py-md-5(titulo="Gancho rotatorio (caja bobina)")
-        .row.justify-content-center.align-items-center
-          .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
-            img(src='@/assets/curso/temas/t1/tab3.png', alt='')
-          .col-10.col-lg-6
-            p Es un componente mecánico que, en coordinación con la aguja, genera las puntadas de la serie 300 (doble pespunte) mediante movimientos de rotación continua. Su diseño permite enrollar el hilo de manera uniforme alrededor de la aguja en cada ciclo, asegurando la formación precisa y resistente de la costura doble.
-      .bg-14.py-4.py-md-5(titulo="Agujas")
-        .row.justify-content-center.align-items-center
-          .col-10
-            SlyderA(tipo="b")
-              .row.justify-content-around.align-items-center
-                .col-12.col-lg-7.mb-4.mb-lg-0
-                  .bg-12.tarjeta.p-3
-                    .titulo-sexto.color-acento-contenido.mb-3
-                      h5 Tabla 4.
-                      span Tipos de calibres en agujas
-                    .tabla-a.color-acento-contenido.mw-300
-                      table(alt="Tabla de tres columnas con información de equivalencias numéricas para calibres de aguja. La primera columna presenta valores del sistema métrico, la segunda los valores del sistema inglés y la tercera la conversión en milímetros. Los valores avanzan progresivamente desde 70 a 120 en el sistema métrico, y desde 0,7 a 1,2 mm en equivalencia.")
-                        caption Fuente: SENA, (2021)
-                        thead
-                          tr.bg-color-primario
-                            th.w-25.text-center Métrico
-                            th.w-25.text-center Inglés
-                            th.text-center Equivalencia en mm
-                        tbody
-                          tr
-                            td.text-center 70
-                            td.text-center 10
-                            td.text-center 0,7
-                          tr
-                            td.text-center 80
-                            td.text-center 12
-                            td.text-center 0,8
-                          tr
-                            td.text-center 90
-                            td.text-center 14
-                            td.text-center 0,9
-                          tr
-                            td.text-center 100
-                            td.text-center 16
-                            td.text-center 1
-                          tr
-                            td.text-center 110
-                            td.text-center 18
-                            td.text-center 1,1
-                          tr
-                            td.text-center 120
-                            td.text-center 20
-                            td.text-center 1,2
-                .col-12.col-lg-5
-                  p Constituye un componente esencial en el mecanismo de costura, pues atraviesa el material y transporta el hilo hasta el tomador de lazada, posibilitando la formación de la puntada. Históricamente, su invención marcó el origen de las máquinas de coser, siendo el punto de partida para el desarrollo de todas las soluciones mecánicas posteriores.
-                  p Calibre: corresponde al diámetro de la caña y se selecciona según el grosor del tejido, por ejemplo, calibres 65 – 70 para lycras, 70 – 90 para tejidos de punto y 100 – 125 para dril o mezclilla.
-              .row.justify-content-around.align-items-center
-                .col-12.col-lg-7.mb-4.mb-lg-0
-                  .bg-12.tarjeta.p-3
-                    .titulo-sexto.color-acento-contenido
-                      h5 Tabla 5.
-                      span Tipos de aguja según máquina
-                    .tabla-a.color-acento-contenido.mw-300
-                      table(alt="Tabla con dos columnas. La primera columna contiene el nombre de diferentes tipos de máquinas de coser, como planas, recubridora, zigzag, dos agujas y fileteadora. La segunda columna indica el tipo de aguja correspondiente a cada máquina, con referencias como “16 x 231 cabo delgado”, “135 x 5 cabo grueso”, “B63” y “B27”.")
-                        caption Fuente: SENA, (2021)
-                        thead
-                          tr.bg-color-primario
-                            th.w-25 Máquina
-                            th.text-center Tipo de aguja
-                        tbody
-                          tr
-                            td Planas
-                            td 16 x 231 cabo delgado
-                          tr
-                            td Planas
-                            td 135 x 5 cabo grueso
-                          tr
-                            td Recubridora
-                            td B63
-                          tr
-                            td Zigzag
-                            td 135 x 5
-                          tr
-                            td Dos agujas
-                            td 135 x 5
-                          tr
-                            td Fileteadora
-                            td B27
-                .col-12.col-lg-5
-                  .bg-6.tarjeta.p-4
-                    p.mb-0 #[strong Nota:] el sistema de referencia identifica el tipo de aguja compatible con la máquina de coser empleada, asegurando un encaje y funcionamiento adecuados.
-              .row.justify-content-around.align-items-center
-                .col-12.col-md-10.col-lg-6.mb-4.mb-lg-0
-                  img(src='@/assets/curso/temas/t1/tab4.png', alt='')
-                .col-12.col-lg-6
-                  p.mb-5 #[strong Punta:] define la geometría de perforación y se elige de acuerdo con el tipo de fibra, desde tejidos finos hasta materiales pesados, para favorecer la penetración y preservar la integridad de la tela.
-                  h5 Tipos de agujas
-                  p.mb-4 Como referencia complementaria, se sugiere revisar el siguiente documento:
-                  a.anexo.mb-4.mb-lg-0(:href="obtenerLink('/downloads/Anexo1_Tipos_de_agujas.pdf')" target="_blank")
-                    .anexo__icono
-                      img(src="@/assets/template/icono-link.svg")
-                    .anexo__texto
-                      p #[strong Anexo 1.] Tipos de agujas.pdf 
+    .subt.mb-4(data-aos="fade")
+      img(src="@/assets/curso/temas/t4/subt.svg")
+      h3.ps-3.pe-4.mb-0 Prensatelas
+
+    .row.justify-content-center.align-items-center
+      .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
+        img(src='@/assets/curso/temas/t1/tab1.png', alt='')
+      .col-lg-7
+        p Es el componente responsable de ejercer presión sobre la capa superior del tejido, manteniéndolo firme contra los dientes de arrastre para garantizar un avance uniforme. La fuerza aplicada debe adaptarse al grosor y la naturaleza del material: una presión excesiva puede comprimir en demasía la pieza, provocando que el diente dañe la tela al ascender o genere un recogido visible en la cara inferior y una superficie lisa en el derecho; por el contrario, una presión insuficiente impide que el tejido se incruste correctamente entre los dientes, produciendo deslizamientos (“pega”) y variaciones en la densidad de puntadas.
+        p Para optimizar la calidad de la costura, el ancho de la base del prensatelas debe cubrir al menos el 90 % del recorrido del diente, asegurando una sujeción homogénea. La regulación del tornillo de presión del prensatelas permite ajustar este contacto según el tipo de fibra y el espesor del textil, de modo que cada puntada se forme con precisión y sin comprometer la integridad de la prenda.
+      
+    .subt.mb-4(data-aos="fade")
+      img(src="@/assets/curso/temas/t4/subt.svg")
+      h3.ps-3.pe-4.mb-0 Planchuela
+
+    .bg-16.p-4.mb-5(data-aos="fade")
+      .row.justify-content-around.align-items-center
+        .col-lg-6
+          p Actúa como soporte del tejido durante la fase de retroceso del diente de arrastre y posee un orificio calibrado para el paso de la aguja, cuyo diámetro debe ser aproximadamente un 40 % mayor que el grosor de la hoja de la aguja empleada. Además, cuenta con canales longitudinales (o carriles) cuya cantidad coincide con la de hileras de dientes, de modo que cada diente pueda deslizarse a lo largo de todo su recorrido sin desviarse. Este diseño garantiza un alineamiento preciso entre diente y planchuela, asegurando un transporte uniforme del material y evitando desgastes prematuros o atrapamientos durante el ciclo de costura.
+        .col-8.col-md-5.col-lg-3.mb-4.mb-lg-0
+          img(src='@/assets/curso/temas/t1/tab2.png', alt='')
+
+    .subt.mb-4(data-aos="fade")
+      img(src="@/assets/curso/temas/t4/subt.svg")
+      h3.ps-3.pe-4.mb-0 Gancho rotatorio (caja bobina)
+
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
+      .col-10.col-md-8.col-lg-4.mb-4.mb-lg-0
+        img(src='@/assets/curso/temas/t1/tab3.png', alt='')
+      .col-lg-8
+        .row.hilo
+          .col-lg-7
+            .bg-14.tarjeta.p-3.p-lg-4
+              p.mb-0 Es un componente mecánico que, en coordinación con la aguja, genera las puntadas de la serie 300 (doble pespunte) mediante movimientos de rotación continua. Su diseño permite enrollar el hilo de manera uniforme alrededor de la aguja en cada ciclo, asegurando la formación precisa y resistente de la costura doble.
+          .col-lg-5.img-deco.d-none.d-lg-block
+            img(src='@/assets/curso/temas/t1/21.svg', alt='')
+      
+    .subt.mb-4(data-aos="fade")
+      img(src="@/assets/curso/temas/t4/subt.svg")
+      h3.ps-3.pe-4.mb-0 Agujas
+
+    .row.justify-content-center.mb-5(data-aos="fade")
+      .col-lg-4.mb-4.mb-lg-0
+        p Constituye un componente esencial en el mecanismo de costura, pues atraviesa el material y transporta el hilo hasta el tomador de lazada, posibilitando la formación de la puntada. Históricamente, su invención marcó el origen de las máquinas de coser, siendo el punto de partida para el desarrollo de todas las soluciones mecánicas posteriores.
+        .bg-2.tarjeta.p-4
+          ul.lista-ul--color.color-primario.fa-lista
+            li
+              i.far.fa-circle
+              span.mb-0 #[strong Calibre:] corresponde al diámetro de la caña y se selecciona según el grosor del tejido, por ejemplo, calibres 65 - 70 para lycras, 70 - 90 para tejidos de punto y 100 - 125 para dril o mezclilla.
+      .col-lg-4.mb-4.mb-lg-0
+        .titulo-sexto.color-acento-contenido.mb-3
+          h5 Tabla 4.
+          span Tipos de calibres en agujas
+        .tabla-a.color-acento-contenido.mw-300.ma-p
+          table(alt="Tabla de tres columnas con información de equivalencias numéricas para calibres de aguja. La primera columna presenta valores del sistema métrico, la segunda los valores del sistema inglés y la tercera la conversión en milímetros. Los valores avanzan progresivamente desde 70 a 120 en el sistema métrico, y desde 0,7 a 1,2 mm en equivalencia.")
+            caption Fuente: SENA, (2021)
+            thead
+              tr.bg-color-primario
+                th.w-25.text-center Métrico
+                th.w-25.text-center Inglés
+                th.text-center Equivalencia en mm
+            tbody
+              tr
+                td.text-center 70
+                td.text-center 10
+                td.text-center 0,7
+              tr
+                td.text-center 80
+                td.text-center 12
+                td.text-center 0,8
+              tr
+                td.text-center 90
+                td.text-center 14
+                td.text-center 0,9
+              tr
+                td.text-center 100
+                td.text-center 16
+                td.text-center 1
+              tr
+                td.text-center 110
+                td.text-center 18
+                td.text-center 1,1
+              tr
+                td.text-center 120
+                td.text-center 20
+                td.text-center 1,2
+      .col-lg-4
+        .bg-8.tarjeta.p-4.py-lg-5.h-100
+          img.mb-3.w-105.m-auto(src='@/assets/curso/temas/t1/22.svg', alt='')
+          p.mb-0 #[strong Nota:] el sistema de referencia identifica el tipo de aguja compatible con la máquina de coser empleada, asegurando un encaje y funcionamiento adecuados.
+
+    .row.justify-content-center.mb-5(data-aos="fade")
+      .col-lg-4.mb-4.mb-lg-0
+        .titulo-sexto.color-acento-contenido.mb-3
+          h5 Tabla 5.
+          span Tipos de aguja según máquina
+        .tabla-a.color-acento-contenido.mw-300.ma-p
+          table(alt="Tabla con dos columnas. La primera columna contiene el nombre de diferentes tipos de máquinas de coser, como planas, recubridora, zigzag, dos agujas y fileteadora. La segunda columna indica el tipo de aguja correspondiente a cada máquina, con referencias como “16 x 231 cabo delgado”, “135 x 5 cabo grueso”, “B63” y “B27”.")
+            caption Fuente: SENA, (2021)
+            thead
+              tr.bg-color-primario
+                th.w-25 Máquina
+                th.text-center Tipo de aguja
+            tbody
+              tr
+                td Planas
+                td 16 x 231 cabo delgado
+              tr
+                td Planas
+                td 135 x 5 cabo grueso
+              tr
+                td Recubridora
+                td B63
+              tr
+                td Zigzag
+                td 135 x 5
+              tr
+                td Dos agujas
+                td 135 x 5
+              tr
+                td Fileteadora
+                td B27
+      .col-lg-4.mb-4.mb-lg-0
+        .bg-16.tarjeta.p-4.py-lg-5.h-100
+          img.mb-3.w-105.m-auto(src='@/assets/curso/temas/t1/23.svg', alt='')
+          ul.lista-ul--color.color-primario.fa-lista
+            li
+              i.far.fa-circle
+              span.mb-0 #[strong Punta:] define la geometría de perforación y se elige de acuerdo con el tipo de fibra, desde tejidos finos hasta materiales pesados, para favorecer la penetración y preservar la integridad de la tela.
+      .col-lg-4.col-md-7
+        .bg-12.tarjeta.p-4.pt-lg-5.h-100
+          img(src='@/assets/curso/temas/t1/tab4.png', alt='')
+
+    .tarjeta.bg-3.p-3.py-md-4.mb-4
+      .row.justify-content-around.align-items-center
+        .col-3.col-sm-2.col-lg-1
+          img(src="@/assets/curso/temas/t4/pdf.svg")
+        .col
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0
+              h4.mb-1.ct-color-primario Tipos de agujas
+              p.mb-0.text-white Como referencia complementaria, se sugiere revisar el siguiente documento
+            .col-sm-auto
+              a.boton.bg-4(:href="obtenerLink('/downloads/Anexo1_Tipos_de_agujas.pdf')" target="_blank")
+                span Descargar
+                i.fas.fa-file-download
+
 
 
 

@@ -53,35 +53,37 @@
         .row.justify-content-center
           .col-md-11
             .row.justify-content-center.align-items-center.mb-3
-              .col-lg-4.col-md-6.col-8.mb-4.mb-md-0
+              .col-lg-8.col-md-6
+                p El hilo con núcleo combina un filamento de poliéster en el centro con un recubrimiento de fibras (algodón o poliéster), lo que le aporta resistencia y suavidad. Esta estructura facilita el paso por la máquina y produce costuras firmes, ideales para confección a alta velocidad y prendas de alto esfuerzo. Por su parte, los hilos de filamento continuo (como poliéster, #[em nylon] o acetato) ofrecen mayor resistencia que los de fibra corta y se utilizan en aplicaciones industriales por su durabilidad y uniformidad.
+              .col-lg-4.col-md-6.col-8
                 .titulo-sexto.color-acento-contenido.mb-2
                   h5 Figura 28.
                   span Hilo con núcleo
                 figure.mb-3  
                   img(src='@/assets/curso/temas/t3/fig28.png', alt='Tres hebras trenzadas forman una estructura externa que recubre un núcleo central compuesto por varios filamentos delgados alineados verticalmente.')
                 figcaption Fuente: 
-                  a(href="https://www.coats.com/es/info-hub/selecting-your-sewing-threads/" target="_blank") https://www.coats.com/es/info-hub/selecting-your-sewing-threads/
-              .col-lg-8.col-md-6
-                p El hilo con núcleo combina un filamento de poliéster en el centro con un recubrimiento de fibras (algodón o poliéster), lo que le aporta resistencia y suavidad. Esta estructura facilita el paso por la máquina y produce costuras firmes, ideales para confección a alta velocidad y prendas de alto esfuerzo. Por su parte, los hilos de filamento continuo (como poliéster, #[em nylon] o acetato) ofrecen mayor resistencia que los de fibra corta y se utilizan en aplicaciones industriales por su durabilidad y uniformidad.
+                  a(href="https://www.coats.com/es/info-hub/selecting-your-sewing-threads/" target="_blank") https://www.coats.com/es/info-hub/selecting-your-sewing-threads/     
       .py-4.py-md-5(titulo="El hilo monofilamento" :icono="require('@/assets/curso/temas/t3/tab-ico4.svg')")
         .row.justify-content-center
           .col-md-11      
             .row.justify-content-center.align-items-center
-              .col-lg-4.col-md-6.col-8.mb-4.mb-md-0
+              .col-lg-8.col-md-6
+                p Consiste en un solo filamento continuo de diámetro controlado, lo que le confiere una resistencia y uniformidad destacadas a un coste de producción relativamente bajo. Sin embargo, su rigidez y textura áspera limitan su flexibilidad y confort, por lo que su aplicación se concentra principalmente en confecciones donde estas propiedades resultan deseables, tales como bastillas, cortinas y tapicería. Gracias a su consistencia dimensional y su estabilidad frente a la tensión, el monofilamento garantiza bordes definidos y duraderos en usos decorativos y de tapizado, aunque no se recomienda para prendas de vestir que requieran suavidad o elasticidad.
+              .col-lg-4.col-md-6.col-8
                 .titulo-sexto.color-acento-contenido.mb-2
                   h5 Figura 29.
                   span Hilo monofilamento
                 figure.mb-3  
                   img(src='@/assets/curso/temas/t3/fig29.png', alt='Cilindro continuo con superficie lisa y uniforme, sin divisiones visibles ni textura trenzada.')
                 figcaption Fuente: 
-                  a(href="https://www.coats.com/es/info-hub/selecting-your-sewing-threads/" target="_blank") https://www.coats.com/es/info-hub/selecting-your-sewing-threads/
-              .col-lg-8.col-md-6
-                p Consiste en un solo filamento continuo de diámetro controlado, lo que le confiere una resistencia y uniformidad destacadas a un coste de producción relativamente bajo. Sin embargo, su rigidez y textura áspera limitan su flexibilidad y confort, por lo que su aplicación se concentra principalmente en confecciones donde estas propiedades resultan deseables, tales como bastillas, cortinas y tapicería. Gracias a su consistencia dimensional y su estabilidad frente a la tensión, el monofilamento garantiza bordes definidos y duraderos en usos decorativos y de tapizado, aunque no se recomienda para prendas de vestir que requieran suavidad o elasticidad.
+                  a(href="https://www.coats.com/es/info-hub/selecting-your-sewing-threads/" target="_blank") https://www.coats.com/es/info-hub/selecting-your-sewing-threads/             
       .py-4.py-md-5(titulo="El hilo multifilamento suave" :icono="require('@/assets/curso/temas/t3/tab-ico2.svg')")
         .row.justify-content-center
           .col-md-11
             .row.justify-content-center.align-items-center
-              .col-lg-4.col-md-6.col-8.mb-4.mb-md-0
+              .col-lg-8.col-md-6
+                p Se fabrica principalmente a partir de filamentos continuos de #[em nylon] o poliéster torcidos en conjunto, lo que le confiere una resistencia excepcional. Esta construcción, que integra dos o más hilos finos en un único cordón, garantiza una alta tenacidad y flexibilidad, atributos esenciales para aplicaciones sometidas a elevados esfuerzos mecánicos. Por ello, resulta idóneo para la confección de calzado, artículos de cuero y productos industriales, donde la durabilidad de la costura es prioritaria. Además, su superficie suave reduce el desgaste del material base y facilita el deslizamiento por las máquinas de coser, contribuyendo a un proceso de alta productividad y calidad constante.
+              .col-lg-4.col-md-6.col-8
                 .titulo-sexto.color-acento-contenido.mb-2
                   h5 Figura 30.
                   span Hilo multifilamento
@@ -89,13 +91,13 @@
                   img(src='@/assets/curso/temas/t3/fig30.png', alt='Cilindro compuesto por múltiples hilos finos enrollados en espiral alrededor de un núcleo central, generando un patrón de textura densa.')
                 figcaption Fuente: 
                   a(href="https://www.coats.com/es/info-hub/selecting-your-sewing-threads/" target="_blank") https://www.coats.com/es/info-hub/selecting-your-sewing-threads/
-              .col-lg-8.col-md-6
-                p Se fabrica principalmente a partir de filamentos continuos de #[em nylon] o poliéster torcidos en conjunto, lo que le confiere una resistencia excepcional. Esta construcción, que integra dos o más hilos finos en un único cordón, garantiza una alta tenacidad y flexibilidad, atributos esenciales para aplicaciones sometidas a elevados esfuerzos mecánicos. Por ello, resulta idóneo para la confección de calzado, artículos de cuero y productos industriales, donde la durabilidad de la costura es prioritaria. Además, su superficie suave reduce el desgaste del material base y facilita el deslizamiento por las máquinas de coser, contribuyendo a un proceso de alta productividad y calidad constante.
       .py-4.py-md-5(titulo="El hilo de filamento texturizado" :icono="require('@/assets/curso/temas/t3/tab-ico3.svg')")
         .row.justify-content-center
           .col-md-11
             .row.justify-content-center.align-items-center
-              .col-lg-4.col-md-6.col-8.mb-4.mb-md-0
+              .col-lg-8.col-md-6
+                p Se elabora a partir de filamentos continuos de poliéster sometidos a un proceso de texturización que incrementa su volumen y elasticidad. Se emplea principalmente como hilo de lanzadera en puntadas de cobertura, donde aporta un acabado más denso y una mayor capacidad de recuperación en zonas sometidas a estiramiento. Gracias a su estructura voluminosa, mejora la cobertura del pespunte y la extensibilidad de la costura; sin embargo, su mayor volumen y menor tensión superficial incrementan la tendencia al enredo, por lo que es imprescindible ajustar con precisión los parámetros de tensión y guía durante el cosido para asegurar la uniformidad y continuidad de la puntada.
+              .col-lg-4.col-md-6.col-8
                 .titulo-sexto.color-acento-contenido.mb-2
                   h5 Figura 31.
                   span Hilo de filamento texturizado
@@ -103,9 +105,7 @@
                   img(src='@/assets/curso/temas/t3/fig31.png', alt='Dos haces de filamentos con estructura alargada se enrollan entre sí generando una torsión visible, con texturas internas marcadas y acabado fibroso.')
                 figcaption Fuente: 
                   a(href="https://www.coats.com/es/info-hub/selecting-your-sewing-threads/" target="_blank") https://www.coats.com/es/info-hub/selecting-your-sewing-threads/
-              .col-lg-8.col-md-6
-                p Se elabora a partir de filamentos continuos de poliéster sometidos a un proceso de texturización que incrementa su volumen y elasticidad. Se emplea principalmente como hilo de lanzadera en puntadas de cobertura, donde aporta un acabado más denso y una mayor capacidad de recuperación en zonas sometidas a estiramiento. Gracias a su estructura voluminosa, mejora la cobertura del pespunte y la extensibilidad de la costura; sin embargo, su mayor volumen y menor tensión superficial incrementan la tendencia al enredo, por lo que es imprescindible ajustar con precisión los parámetros de tensión y guía durante el cosido para asegurar la uniformidad y continuidad de la puntada.
-
+              
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
@@ -157,7 +157,7 @@
               tr
                 td Semipesado
                 td 30, 35, 40.
-                td Pantalones, overol drill.
+                td Pantalones, overol #[em drill].
               tr
                 td Pesado
                 td 60, 70 hasta 120.
@@ -385,7 +385,7 @@
                       img.h-99.mb-3(src='@/assets/curso/temas/t3/tarj1-2.svg', alt='')
                       h4.text-center.ct-1.mb-1 200
                       h4.bg-3.w-fit.text-white.px-2.py-1.m-auto.mb-4 (Ornamentales)
-                      p.text-center Familias de puntadas decorativas, usadas para aplicaciones estéticas más que para unir cargamentos de tejido
+                      p.text-center Familias de puntadas decorativas, usadas para aplicaciones estéticas más que para unir cargamentos de tejido.
                     .col-md-6.col-lg-5
                       .titulo-sexto.color-acento-contenido.mb-2
                         h5 Figura 33.
@@ -509,7 +509,7 @@
             ul.lista-ul--color.fa-lista
               li
                 i.far.fa-circle
-                span.mb-0 #[strong Desprendiese (#[em tear-away]):] que se recogen con un tirón lento una vez finalizado el bordado, ideales para tejidos con poca elasticidad.
+                span.mb-0 #[strong Desprendibles (#[em tear-away]):] que se recogen con un tirón lento una vez finalizado el bordado, ideales para tejidos con poca elasticidad.
               li
                 i.far.fa-circle
                 span.mb-0 #[strong Recortables (#[em cut-away]):] que permanecen en la prenda y se ajustan alrededor del diseño, ofreciendo un soporte duradero en tejidos elásticos o de punto.
@@ -559,7 +559,7 @@
           li
             .lista-ol--cuadro__vineta
               span.fw-bold a.
-            span.mb-0 #[strong Preparación:] cortar la entretela o estabilizador con un margen de 5–10 mm más pequeño que la pieza de tela.
+            span.mb-0 #[strong Preparación:] cortar la entretela o estabilizador con un margen de 5 - 10 mm más pequeño que la pieza de tela.
           li
             .lista-ol--cuadro__vineta
               span.fw-bold b.
@@ -718,7 +718,7 @@
       h3.ps-3.pe-4.mb-0 Broches y #[em snaps]
 
     .bg-1.p-4.p-lg-5.h-100.d-flex.align-items-center.mb-4
-      p.mb-0 Los broches de presión (#[em snaps]) son cierres de dos piezas que se ensamblan con un simple “#[em clic]”, combinando rapidez de apertura y resistencia mecánica. Están compuestos por un casquillo hembra y un macho, disponibles en acero niquelado, latón o plástico, lo que permite su uso en prendas infantiles, ropa técnica y accesorios de moda. Su instalación se realiza mediante herramientas de prensa manual o hidráulica, insertando primero el casquillo y luego el elemento macho, de manera que queden firmemente unidos. Gracias a su bajo perfil y a su capacidad de soportar múltiples ciclos de apertura, los broches resultan idóneos en aplicaciones donde se requiere un cierre rápido y discreto, tales como bolsillos, cuellos desmontables y complementos de diseño.   
+      p.mb-0 Los broches de presión (#[em snaps]) son cierres de dos piezas que se ensamblan con un simple “clic”, combinando rapidez de apertura y resistencia mecánica. Están compuestos por un casquillo hembra y un macho, disponibles en acero niquelado, latón o plástico, lo que permite su uso en prendas infantiles, ropa técnica y accesorios de moda. Su instalación se realiza mediante herramientas de prensa manual o hidráulica, insertando primero el casquillo y luego el elemento macho, de manera que queden firmemente unidos. Gracias a su bajo perfil y a su capacidad de soportar múltiples ciclos de apertura, los broches resultan idóneos en aplicaciones donde se requiere un cierre rápido y discreto, tales como bolsillos, cuellos desmontables y complementos de diseño.   
         
     .mb-5(data-aos="fade-down")
       .titulo-sexto.color-acento-contenido.mb-3
@@ -756,7 +756,7 @@
             tr
               td #[em Snaps]
               td Instalación mediante prensa manual o hidráulica.
-              td Montaje seguro y uniforme en zona de aplicación
+              td Montaje seguro y uniforme en zona de aplicación.
               td De montaje manual, de prensa.
               td #[em Snap] montado con herramienta de mano en talleres domésticos; #[em snap] hidráulico en producción industrial.
 
@@ -917,19 +917,19 @@
               th Ejemplos
           tbody
             tr
-              td Velcro (Cinta Macho).
+              td Velcro (cinta macho).
               td Cara con gancho rígido.
               td Cierre rápido y regulable.
               td #[em Nylon], poliéster.
               td Ajuste de calzado infantil; cierres de bolsillos.
             tr
-              td Velcro (Cinta Hembra).
+              td Velcro (cinta hembra).
               td Cara con bucle suave.
               td Fijación sin costura visible.
               td #[em Nylon], poliéster.
               td Sujeción de fundas; cierre de bolsas de deporte.
             tr
-              td Cierre de Contacto.
+              td Cierre de contacto.
               td Sistema integrado de gancho y bucle en un mismo soporte.
               td Cierre de tapas y accesorios.
               td Adhesivo, costible.
@@ -987,7 +987,7 @@
               h5 Figura 49.
               span Encaje #[em guipur]
             figure.mb-2  
-              img(src='@/assets/curso/temas/t3/fig49.png', alt='Siete franjas horizontales con encajes decorativos, cada una con patrones simétricos de flores, ondas o puntas, sobre fondo liso.')
+              img(src='@/assets/curso/temas/t3/fig49.png', alt='Seis franjas horizontales con encajes decorativos, cada una con patrones simétricos de flores, ondas o puntas, sobre fondo liso.')
           .col-10.col-md-6.col-lg-7
             ul.lista-ul--color.fa-lista
               li.mb-4
@@ -1054,7 +1054,7 @@
                 span.mb-0 #[strong Características:]#[br] Tejido manual con encaje de agujas o bolillos; patrón abierto y flexible.
               li.mb-4
                 i.far.fa-circle
-                span.mb-0 #[strong Aplicabilidad en prendas femeninas:]#[br] Apliques en blusas #[em boho] flecos decorativos en blusas y vestidos vaporosos.
+                span.mb-0 #[strong Aplicabilidad en prendas femeninas:]#[br] Apliques en blusas #[em boho], flecos decorativos en blusas y vestidos vaporosos.
               li
                 i.far.fa-circle
                 span.mb-0 #[strong Ejemplos:]#[br] Blusa bohemia con cenefa de bolillos; vestido con terminación de fleco.
@@ -1132,12 +1132,12 @@
             tr
               td(rowspan="3") Pedrería
               td Cuentas de cristal facetado.
-              td Superficie tallada que refracta la luz; alta resistencia al desgaste
+              td Superficie tallada que refracta la luz; alta resistencia al desgaste.
               td Collares integrados, aplicaciones de hombro y solapa en chaquetas.
               td Chaqueta con hombreras de cuentas facetadas.
             tr            
               td Perlas sintéticas.
-              td Esferas lisas de vidrio o resina; acabado nacarado
+              td Esferas lisas de vidrio o resina; acabado nacarado.
               td Botones decorativos, guarniciones en cuellos y puños.
               td Blusa de seda con borde de perlas en cuello.
             tr            
@@ -1257,7 +1257,7 @@
               td Presilla de hilo en #[em cardigans] de punto.
             tr
               td Presilla de cinta
-              td Lazo de cinta cortada al Dies o entresacada; ofrece resistencia y volumen moderado.
+              td Lazo de cinta cortada al bies o entresacada; ofrece resistencia y volumen moderado. 
               td Faldas con botonadura frontal, vestidos, cinturillas.
               td Presilla de cinta de algodón en faldas midi.
 
@@ -1268,7 +1268,7 @@
           span Ojal cortado y rematado
         figure.mb-3  
           img(src='@/assets/curso/temas/t3/fig57.png', alt='Proceso de confección de un ojal a mano mediante corte, refuerzo de bordes, pespunte alrededor y remate final para asegurar resistencia y acabado limpio.')
-        figcaption Fuente: PATRONES DE COSTURA. (s. f.). Tutorial: cómo hacer ojales 
+        figcaption Fuente: Patrones de costura. (s. f.). 
       .col-lg-6.col-md-6.col-10.mb-4.mb-lg-0
         .titulo-sexto.color-acento-contenido.mb-2
           h5 Figura 58.

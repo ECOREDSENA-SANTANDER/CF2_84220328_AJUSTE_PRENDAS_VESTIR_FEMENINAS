@@ -53,8 +53,6 @@
                     span Set de reglas
                   figure
                     img(src='@/assets/curso/temas/t2/fig14.png', alt='Conjunto de reglas de trazo especializadas para patronaje, con formas curvas, rectas y combinadas. Cada una tiene perforaciones de diferentes tamaños y escalas numéricas distribuidas a lo largo de sus bordes.')
-                  figcaption Fuente: 
-                    a(href="https://n9.cl/simnm" target="_blank") https://n9.cl/simnm 
               .row.justify-content-around.align-items-center
                 .col-lg-5.col-md-11
                   h4 Ruleta de marcar
@@ -64,7 +62,7 @@
                     h5 Figura 15. 
                     span Ruleta de marcar
                   figure
-                    img(src='@/assets/curso/temas/t2/fig15.png', alt='Herramienta de trazo con mango de madera y rueda metálica dentada, utilizada para transferir marcas o líneas sobre tela o papel.')
+                    img(src='@/assets/curso/temas/t2/fig15.png', alt='Herramienta manual compuesta por un mango y una pieza metálica con una rueda dentada giratoria utilizada en confección para transferir marcas o líneas de patrones sobre el tejido o papel, facilitando el trazado de guías de costura o corte.')
               .row.justify-content-around.align-items-center
                 .col-lg-5.col-md-11
                   h4 Tiza y lápices de sastre

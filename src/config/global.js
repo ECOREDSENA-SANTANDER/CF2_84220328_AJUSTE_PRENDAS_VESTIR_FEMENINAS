@@ -183,19 +183,19 @@ export default {
   },
   complementario: [
     {
-      tema: 'Máquinas de confección ',
-      referencia:
-        'Servicio Nacional de Aprendizaje (SENA). (2022). La máquina de coser. Unidad instruccional No. 1 [PDF]. Repositorio SENA. ',
-      tipo: 'PDF',
-      link: 'https://repositorio.sena.edu.co/handle/11404/1437',
-    },
-    {
-      tema: 'Insumos de confección ',
+      tema: 'Insumos en la modistería',
       referencia:
         'Servicio Nacional de Aprendizaje (SENA). (2021). Control de calidad en hilos y telas [PDF]. Repositorio SENA.',
       tipo: 'PDF',
       link:
-        'https://repositorio.sena.edu.co/bitstream/11404/4252/1/3817_control_de_calidad_en_los_hilos_telas.pdf  ',
+        'https://repositorio.sena.edu.co/bitstream/11404/4252/1/3817_control_de_calidad_en_los_hilos_telas.pdf',
+    },
+    {
+      tema: 'Manejo de máquinas y espació de trabajo',
+      referencia:
+        'Servicio Nacional de Aprendizaje (SENA). (2022). La máquina de coser. Unidad instruccional No. 1 [PDF]. Repositorio SENA.',
+      tipo: 'PDF',
+      link: 'https://repositorio.sena.edu.co/handle/11404/1437',
     },
   ],
   glosario: [
@@ -205,7 +205,7 @@ export default {
         'Dispositivo que mantiene el filo de las herramientas de corte, garantizando cortes limpios y precisos.',
     },
     {
-      termino: 'Altiler',
+      termino: 'Alfiler',
       significado:
         'Elemento metálico con punta fina y cabeza visible, utilizado para sujetar capas de tela en la preparación de costuras.',
     },
@@ -382,7 +382,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
+          nombre: 'Andrea Ardila Chaparro',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
