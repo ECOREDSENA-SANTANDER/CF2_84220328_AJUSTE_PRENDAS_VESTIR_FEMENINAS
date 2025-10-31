@@ -241,7 +241,7 @@
             .col-md-8.col-lg-8
               figure
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/NIt-Y0V8Xuc?si=l7TOaHVANmKXAIh-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/iPocisS7WjE?si=d-C-WbtebrA8zF9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
               figcaption Video. Puesta a punto máquina plana de una aguja. Paso 2. Limpieza y orden del puesto de trabajo.
             .col-md-4.col-lg-4
               p Puesta a punto máquina plana de una aguja.

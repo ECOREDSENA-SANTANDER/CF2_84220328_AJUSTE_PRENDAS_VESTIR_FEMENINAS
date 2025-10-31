@@ -191,7 +191,7 @@ export default {
         'https://repositorio.sena.edu.co/bitstream/11404/4252/1/3817_control_de_calidad_en_los_hilos_telas.pdf',
     },
     {
-      tema: 'Manejo de máquinas y espació de trabajo',
+      tema: 'Manejo de máquinas y espacio de trabajo',
       referencia:
         'Servicio Nacional de Aprendizaje (SENA). (2022). La máquina de coser. Unidad instruccional No. 1 [PDF]. Repositorio SENA.',
       tipo: 'PDF',

@@ -409,13 +409,13 @@
                   td Cargador de bobina.
                 tr
                   td 8.
-                  td Ataque.
+                  td Área de costura. 
                 tr
                   td 9.
                   td Motor.
                 tr
                   td 10.
-                  td Prensatelas.
+                  td Prensatelas. 
                 tr
                   td 11.
                   td Encendido.
