@@ -117,7 +117,7 @@
         .col-md-8.col-lg-8
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/ZdBQABGg05s?si=YMZvA6ajLEya-bQZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/I1AUWjZJ4No?si=avBQRAHhA8Avambu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
           figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad. Paso 8. Prueba de costura.
       .row(numero="9" titulo="Paso 9")
         .col-md-4.col-lg-4
@@ -125,7 +125,7 @@
         .col-md-8.col-lg-8
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/SB4c0ln0SQw?si=AnPJa48GXgw4nhmi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/kIBGQ1-UNPk?si=jNzAA2P9HE2z5ALI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
           figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad. Paso 9. Tensión de la máquina.
       .row(numero="10" titulo="Paso 10")
         .col-md-4.col-lg-4
@@ -141,7 +141,7 @@
         .col-md-8.col-lg-8
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/vcBrLLazbgA?si=TRAlFjPeC-60HAVe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/Vruid3fDKaA?si=ii0VcHFQv1dDYac8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
           figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad. Paso 11. Nivel de arrastre.
       .row(numero="12" titulo="Paso 12")
         .col-md-4.col-lg-4
@@ -241,7 +241,7 @@
             .col-md-8.col-lg-8
               figure
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/NIt-Y0V8Xuc?si=7zI3D24n-vjR53gx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/NIt-Y0V8Xuc?si=l7TOaHVANmKXAIh-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
               figcaption Video. Puesta a punto máquina plana de una aguja. Paso 2. Limpieza y orden del puesto de trabajo.
             .col-md-4.col-lg-4
               p Puesta a punto máquina plana de una aguja.
@@ -253,7 +253,7 @@
             .col-md-8.col-lg-8
               figure
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/2vCy8OngaCs?si=ilRW1Ef8ihTacVlc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/2vCy8OngaCs?si=5Zwm3Z5nlkmvrSMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
               figcaption Video. Puesta a punto máquina plana de una aguja. Paso 3. Enhebrado hilo de aguja.
           .row.align-items-center
             .col-md-8.col-lg-8
