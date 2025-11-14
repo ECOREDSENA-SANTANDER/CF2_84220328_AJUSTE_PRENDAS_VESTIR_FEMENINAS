@@ -294,8 +294,6 @@ export default {
     {
       referencia:
         'Moda, C. d. (2015). Técnicas de patronaje. Tomo II - Hombre. Universidad Peruana de Ciencias Aplicadas (UPC).',
-      link:
-        'https://editorial.upc.edu.pe/tecnicas-de-patronaje-tomo-ii-hombre-28x89.html',
     },
     {
       referencia:

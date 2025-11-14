@@ -44,10 +44,8 @@
           h5 Figura 27.
           span Estructura general del hilo
         figure.mb-3  
-          img(src='@/assets/curso/temas/t3/fig27.png', alt='Tres filamentos cilíndricos están entrelazados en espiral, formando una hebra compacta con textura uniforme.')
-        figcaption Fuente: 
-          a(href="https://www.coats.com/es/info-hub/selecting-your-sewing-threads/" target="_blank") https://www.coats.com/es/info-hub/selecting-your-sewing-threads/
-
+          img(src='@/assets/curso/temas/t3/fig27.svg', alt='Tres filamentos cilíndricos están entrelazados en espiral, formando una hebra compacta con textura uniforme.')
+        
     TabsB.color-acento-contenido.mb-5(data-aos="fade-down")
       .py-4.py-md-5(titulo="El hilo con núcleo" :icono="require('@/assets/curso/temas/t3/tab-ico1.svg')")
         .row.justify-content-center
@@ -59,10 +57,8 @@
                 .titulo-sexto.color-acento-contenido.mb-2
                   h5 Figura 28.
                   span Hilo con núcleo
-                figure.mb-3  
-                  img(src='@/assets/curso/temas/t3/fig28.png', alt='Tres hebras trenzadas forman una estructura externa que recubre un núcleo central compuesto por varios filamentos delgados alineados verticalmente.')
-                figcaption Fuente: 
-                  a(href="https://www.coats.com/es/info-hub/selecting-your-sewing-threads/" target="_blank") https://www.coats.com/es/info-hub/selecting-your-sewing-threads/     
+                figure
+                  img(src='@/assets/curso/temas/t3/fig28.svg', alt='Tres hebras trenzadas forman una estructura externa que recubre un núcleo central compuesto por varios filamentos delgados alineados verticalmente.')                
       .py-4.py-md-5(titulo="El hilo monofilamento" :icono="require('@/assets/curso/temas/t3/tab-ico4.svg')")
         .row.justify-content-center
           .col-md-11      
@@ -74,9 +70,7 @@
                   h5 Figura 29.
                   span Hilo monofilamento
                 figure.mb-3  
-                  img(src='@/assets/curso/temas/t3/fig29.png', alt='Cilindro continuo con superficie lisa y uniforme, sin divisiones visibles ni textura trenzada.')
-                figcaption Fuente: 
-                  a(href="https://www.coats.com/es/info-hub/selecting-your-sewing-threads/" target="_blank") https://www.coats.com/es/info-hub/selecting-your-sewing-threads/             
+                  img(src='@/assets/curso/temas/t3/fig29.svg', alt='Cilindro continuo con superficie lisa y uniforme, sin divisiones visibles ni textura trenzada.')                
       .py-4.py-md-5(titulo="El hilo multifilamento suave" :icono="require('@/assets/curso/temas/t3/tab-ico2.svg')")
         .row.justify-content-center
           .col-md-11
@@ -88,9 +82,7 @@
                   h5 Figura 30.
                   span Hilo multifilamento
                 figure.mb-3  
-                  img(src='@/assets/curso/temas/t3/fig30.png', alt='Cilindro compuesto por múltiples hilos finos enrollados en espiral alrededor de un núcleo central, generando un patrón de textura densa.')
-                figcaption Fuente: 
-                  a(href="https://www.coats.com/es/info-hub/selecting-your-sewing-threads/" target="_blank") https://www.coats.com/es/info-hub/selecting-your-sewing-threads/
+                  img(src='@/assets/curso/temas/t3/fig30.svg', alt='Cilindro compuesto por múltiples hilos finos enrollados en espiral alrededor de un núcleo central, generando un patrón de textura densa.')
       .py-4.py-md-5(titulo="El hilo de filamento texturizado" :icono="require('@/assets/curso/temas/t3/tab-ico3.svg')")
         .row.justify-content-center
           .col-md-11
@@ -102,10 +94,8 @@
                   h5 Figura 31.
                   span Hilo de filamento texturizado
                 figure.mb-3  
-                  img(src='@/assets/curso/temas/t3/fig31.png', alt='Dos haces de filamentos con estructura alargada se enrollan entre sí generando una torsión visible, con texturas internas marcadas y acabado fibroso.')
-                figcaption Fuente: 
-                  a(href="https://www.coats.com/es/info-hub/selecting-your-sewing-threads/" target="_blank") https://www.coats.com/es/info-hub/selecting-your-sewing-threads/
-              
+                  img(src='@/assets/curso/temas/t3/fig31.svg', alt='Dos haces de filamentos con estructura alargada se enrollan entre sí generando una torsión visible, con texturas internas marcadas y acabado fibroso.')
+                
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
@@ -113,7 +103,7 @@
           span Características del hilo y su composición
         .tabla-a.color-acento-contenido
           table(alt="Tabla con cuatro tipos de insumos textiles: algodón, poliéster, mercerizado y lubricado. Se especifica que el algodón es una fibra natural de alto confort, el poliéster es un filamento sintético con resistencia y elasticidad, el mercerizado es un tratamiento químico que mejora las fibras, y el lubricado es un acabado para facilitar el proceso de cosido.")
-            caption Fuente: SENA, (2021)
+            caption Fuente: SENA (2021)
             thead
               tr.bg-color-primario
                 th.w-25 Insumo
@@ -143,7 +133,7 @@
           span Tamaño de hilo y aplicaciones  
         .tabla-a.color-acento-contenido
           table(alt="Tabla que relaciona el tipo de tejido con el grosor del hilo (medido en TEX) y las prendas recomendadas. El tejido liviano corresponde a hilos TEX 24 a 27 para blusas y ropa interior. El semipesado emplea TEX 30 a 40 para pantalones y overoles. El tejido pesado, con TEX de 60 a 120, se usa en prendas como chaquetas y pantalones de mezclilla.")
-            caption Fuente: SENA, (2021)
+            caption Fuente: SENA (2021)
             thead
               tr.bg-color-primario
                 th.text-center Tejido
@@ -173,7 +163,7 @@
         span Relación del hilo respecto a la aguja y tejido
       .tabla-a.color-acento-contenido
         table(alt="Cuadro comparativo que presenta cinco aspectos técnicos relacionados con el comportamiento del hilo, contrastando sus implicaciones tanto en la interacción con la aguja como con el tejido. Se abordan grosor, tensión, formación de puntada, velocidad de costura y acabado, señalando su influencia en la calidad del pespunte y la integridad del material.")
-          caption Fuente: SENA, (2025)
+          caption Fuente: SENA (2025)
           thead
             tr.bg-color-primario
               th.w-25 Aspecto
@@ -228,7 +218,7 @@
         span Tipos de puntada y parámetros
       .tabla-a.color-acento-contenido
         table(alt="Tabla con seis tipos de puntadas utilizadas en confección, organizadas por criterios técnicos como durabilidad, elongación, seguridad, apariencia decorativa y usos frecuentes. Incluye variantes como recta, zigzag, overlock, cobertura, triple puntada y festón, detallando su función estructural o estética en distintos acabados.")
-          caption Fuente: SENA, (2025)
+          caption Fuente: SENA (2025)
           thead
             tr.bg-color-primario
               th Tipo de puntada
@@ -305,7 +295,7 @@
           span Tipos de puntada por serie
         .tabla-a.color-acento-contenido.mb-4.mw-300
           table(alt="Tabla con clasificación de puntadas industriales por series, desde la 100 hasta la 600. Cada serie agrupa tipos específicos como cadeneta sencilla, doble pespunte, sobrehilado o puntadas ornamentales, destacando su aplicación técnica y número de hilos utilizados.")
-            caption Fuente: SENA, (2025)
+            caption Fuente: SENA (2025)
             thead
               tr.bg-color-primario
                 th.w-25 Serie
@@ -375,10 +365,8 @@
                       .titulo-sexto.color-acento-contenido.mb-2
                         h5 Figura 32.
                         span Puntada clase 100
-                      figure.mb-2  
-                        img(src='@/assets/curso/temas/t3/fig32.png', alt='Puntada formada por bucles que se entrelazan en línea horizontal, generando una cadena continua sobre la superficie. Se identifica como clase 100 y se utiliza comúnmente para costuras temporales o decorativas.')
-                      figcaption.des Fuente: 
-                        a(href="https://seampedia.com/clasificacion-de-costura-segun-tipo-puntada/" target="_blank") https://seampedia.com/clasificacion-de-costura-segun-tipo-puntada/
+                      figure 
+                        img(src='@/assets/curso/temas/t3/fig32.svg', alt='Puntada formada por bucles que se entrelazan en línea horizontal, generando una cadena continua sobre la superficie. Se identifica como clase 100 y se utiliza comúnmente para costuras temporales o decorativas.')                     
                 .tarjeta.bg-14.p-4.px-lg-5
                   .row.justify-content-center.align-items-center.mb-3
                     .col-md-6.col-lg-7
@@ -390,10 +378,8 @@
                       .titulo-sexto.color-acento-contenido.mb-2
                         h5 Figura 33.
                         span Puntada clase 200 
-                      figure.mb-2  
-                        img(src='@/assets/curso/temas/t3/fig33.png', alt='Puntadas individuales dispuestas en línea horizontal, realizadas una por una con hilo continuo.')
-                      figcaption.des Fuente: 
-                        a(href="https://seampedia.com/clasificacion-de-costura-segun-tipo-puntada/" target="_blank") https://seampedia.com/clasificacion-de-costura-segun-tipo-puntada/
+                      figure 
+                        img(src='@/assets/curso/temas/t3/fig33.svg', alt='Puntadas individuales dispuestas en línea horizontal, realizadas una por una con hilo continuo.')                      
                 .tarjeta.bg-14.p-4.px-lg-5
                   .row.justify-content-center.align-items-center.mb-3
                     .col-md-6.col-lg-7
@@ -405,10 +391,8 @@
                       .titulo-sexto.color-acento-contenido.mb-2
                         h5 Figura 34.
                         span Puntada clase 300
-                      figure.mb-2  
-                        img(src='@/assets/curso/temas/t3/fig34.png', alt='Puntadas alineadas que atraviesan la tela de arriba hacia abajo y regresan, formando un trazo firme en ambas caras.')
-                      figcaption.des Fuente: 
-                        a(href="https://seampedia.com/clasificacion-de-costura-segun-tipo-puntada/" target="_blank") https://seampedia.com/clasificacion-de-costura-segun-tipo-puntada/
+                      figure 
+                        img(src='@/assets/curso/temas/t3/fig34.svg', alt='Puntadas alineadas que atraviesan la tela de arriba hacia abajo y regresan, formando un trazo firme en ambas caras.')                      
                 .tarjeta.bg-14.p-4.px-lg-5
                   .row.justify-content-center.align-items-center.mb-3
                     .col-md-6.col-lg-7
@@ -420,10 +404,8 @@
                       .titulo-sexto.color-acento-contenido.mb-2
                         h5 Figura 35.
                         span Puntada clase 400
-                      figure.mb-2  
-                        img(src='@/assets/curso/temas/t3/fig35.png', alt='Puntadas formadas por dos hilos que se entrelazan en zigzag en la parte inferior y recto en la superior, creando una unión flexible.')
-                      figcaption.des Fuente: 
-                        a(href="https://seampedia.com/clasificacion-de-costura-segun-tipo-puntada/" target="_blank") https://seampedia.com/clasificacion-de-costura-segun-tipo-puntada/
+                      figure
+                        img(src='@/assets/curso/temas/t3/fig35.svg', alt='Puntadas formadas por dos hilos que se entrelazan en zigzag en la parte inferior y recto en la superior, creando una unión flexible.')
                 .tarjeta.bg-14.p-4.px-lg-5
                   .row.justify-content-center.align-items-center.mb-3
                     .col-md-6.col-lg-7
@@ -435,10 +417,8 @@
                       .titulo-sexto.color-acento-contenido.mb-2
                         h5 Figura 36.
                         span Puntada clase 500
-                      figure.mb-2
-                        img(src='@/assets/curso/temas/t3/fig36.png', alt='Puntadas que envuelven el borde de la tela con múltiples hilos entrelazados, formando una unión cerrada y continua.')
-                      figcaption.des Fuente: 
-                        a(href="https://seampedia.com/clasificacion-de-costura-segun-tipo-puntada/" target="_blank") https://seampedia.com/clasificacion-de-costura-segun-tipo-puntada/
+                      figure
+                        img(src='@/assets/curso/temas/t3/fig36.svg', alt='Puntadas que envuelven el borde de la tela con múltiples hilos entrelazados, formando una unión cerrada y continua.')                    
                 .tarjeta.bg-14.p-4.px-lg-5
                   .row.justify-content-center.align-items-center.mb-3
                     .col-md-6.col-lg-7
@@ -450,11 +430,9 @@
                       .titulo-sexto.color-acento-contenido.mb-2
                         h5 Figura 37.
                         span Puntada clase 600
-                      figure.mb-2
-                        img(src='@/assets/curso/temas/t3/fig37.png', alt='Puntadas múltiples que cubren por completo la unión de las telas, con hilos visibles en ambos lados y entrelazados en zigzag en la parte inferior.')
-                      figcaption.des Fuente: 
-                        a(href="https://seampedia.com/clasificacion-de-costura-segun-tipo-puntada/" target="_blank") https://seampedia.com/clasificacion-de-costura-segun-tipo-puntada/
-
+                      figure
+                        img(src='@/assets/curso/temas/t3/fig37.svg', alt='Puntadas múltiples que cubren por completo la unión de las telas, con hilos visibles en ambos lados y entrelazados en zigzag en la parte inferior.')
+                      
     .tarjeta.bg-3.p-3.py-md-4(data-aos="fade")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
@@ -618,7 +596,7 @@
         span Tipos de cremalleras y sus características 
       .tabla-a.color-acento-contenido
         table(alt="Cuadro con cuatro filas que describen tipos de cremalleras, agrupadas por insumo, característica, uso, tipos y ejemplos. Cada fila incluye información técnica sobre materiales como nylon, metal o plástico, y su aplicación en prendas, bolsos o ropa técnica.")
-          caption Fuente: SENA, (2025)
+          caption Fuente: SENA (2025)
           thead
             tr.bg-color-primario
               th.text-center Insumo
@@ -652,7 +630,7 @@
               td Tonos coordinados o contrastantes.
               td Cremallera contrastante en bolsos; cremallera metálica en chaquetas de mezclilla.
 
-    .mb-5(data-aos="fade-down")
+    .bg-2.p-4.mb-5(data-aos="fade-down")
       .titulo-sexto.color-acento-contenido.mb-2
         h5 Figura 40.
         span Tipos de cremalleras
@@ -671,7 +649,7 @@
         span Tipos de botones
       .tabla-a.color-acento-contenido
         table(alt="Cuadro con tres filas que describen tipos de botones según insumo, característica, uso, tipos y ejemplos. Se mencionan materiales como plástico, metal, nácar y madera, con aplicaciones en prendas decorativas, de ajuste o de uso intensivo.")
-          caption Fuente: SENA, (2025)
+          caption Fuente: SENA (2025)
           thead
             tr.bg-color-primario
               th Insumo
@@ -699,19 +677,21 @@
               td Cosido, remache, soldadura.
               td Botón remachado en ropa de trabajo; botón soldado en equipamiento industrial.
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
+    .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-6.col-md-6.col-10.mb-4.mb-md-0
-        .titulo-sexto.color-acento-contenido.mb-2
-          h5 Figura 41.
-          span Botones de presión
-        figure 
-          img.w-75.m-auto(src='@/assets/curso/temas/t3/fig41.png', alt='Seis botones metálicos dispuestos en dos filas, con formas circulares y cuadradas, superficies lisas o con relieve.')
+        .bg-2.p-4.h-100
+          .titulo-sexto.color-acento-contenido.mb-2
+            h5 Figura 41.
+            span Botones de presión
+          figure 
+            img.w-75.m-auto(src='@/assets/curso/temas/t3/fig41.png', alt='Seis botones metálicos dispuestos en dos filas, con formas circulares y cuadradas, superficies lisas o con relieve.')
       .col-lg-6.col-md-6.col-10.mb-4.mb-md-0
-        .titulo-sexto.color-acento-contenido.mb-2
-          h5 Figura 42.
-          span Botones metálicos y plásticos
-        figure.mb-3.mb-lg-4 
-          img.w-75.m-auto(src='@/assets/curso/temas/t3/fig42.png', alt='Superficie cubierta por botones de distintos tamaños, materiales y formas, distribuidos de manera uniforme sobre fondo de madera.')
+        .bg-2.p-4.h-100
+          .titulo-sexto.color-acento-contenido.mb-3
+            h5 Figura 42.
+            span Botones metálicos y plásticos
+          figure.mb-3.mb-lg-4 
+            img.w-75.m-auto(src='@/assets/curso/temas/t3/fig42.png', alt='Superficie cubierta por botones de distintos tamaños, materiales y formas, distribuidos de manera uniforme sobre fondo de madera.')
 
     .subt.mb-4(data-aos="fade")
       img(src="@/assets/curso/temas/t4/subt.svg")
@@ -726,7 +706,7 @@
         span Tipos de broches y #[em snaps]
       .tabla-a.color-acento-contenido
         table(alt="Tabla con cuatro filas que describen tipos de cierres tipo snap y broches, organizados por insumo, característica, uso, tipos y ejemplos. Se incluyen materiales como acero, latón y plástico, con aplicaciones en prendas, accesorios y producción industrial.")
-          caption Fuente: SENA, (2025)
+          caption Fuente: SENA (2025)
           thead
             tr.bg-color-primario
               th.text-center Insumo
@@ -765,23 +745,15 @@
         .titulo-sexto.color-acento-contenido.mb-2
           h5 Figura 43.
           span Broches de acero
-        .row.justify-content-center
-          .col-lg-8.col-md-9
-            figure.mb-3
-              img(src='@/assets/curso/temas/t3/fig43.png', alt='Exhibidor de botones metálicos y recubiertos, organizados en seis filas, cada uno acompañado por una referencia que indica acabado o tono.')
-        figcaption Fuente: 
-          a(href="https://peleteriamilano.com/producto/broche-de-presion-ideal-para-chamarra-rt-100-o-1000-juegos/" target="_blank") https://peleteriamilano.com/producto/broche-de-presion-ideal-para-chamarra-rt-100-o-1000-juegos/
+        figure
+          img(src='@/assets/curso/temas/t3/fig43.png', alt='Conjunto organizado de broches metálicos dispuestos en filas y columnas, con variaciones en diseño, relieve y acabado superficial.')
       .col-lg-6.col-md-6.col-10.mb-4.mb-lg-0
         .titulo-sexto.color-acento-contenido.mb-2
           h5 Figura 44.          
           span #[em Snap] montado
-        .row.justify-content-center
-          .col-lg-10.col-md-8
-            figure.mb-3
-              img(src='@/assets/curso/temas/t3/fig44.png', alt='Cuatro piezas plásticas blancas dispuestas sobre una base cuadriculada, con etiquetas que indican dos partes huecas y dos salientes, comúnmente utilizadas como broches a presión.')
-        figcaption Fuente: 
-          a(href="https://coloursforbaby.blogspot.com/2016/09/como-poner-y-quitar-snaps.html" target="_blank") https://coloursforbaby.blogspot.com/2016/#[br]09/como-poner-y-quitar-snaps.html
-
+        figure
+          img(src='@/assets/curso/temas/t3/fig44.png', alt='Cuatro piezas plásticas blancas dispuestas sobre una base cuadriculada, con etiquetas que indican dos partes huecas y dos salientes, comúnmente utilizadas como broches a presión.')
+        
 
     Separador
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
@@ -807,7 +779,7 @@
         span Tipos de cintas 
       .tabla-a.color-acento-contenido
         table(alt="Tabla con dos filas que describen tipos de cintas según insumo, característica, uso, tipos y ejemplos. Incluye la cinta al bies y la cinta decorativa, utilizadas para acabados, refuerzos o detalles visibles en prendas y textiles.")
-          caption Fuente: SENA, (2025)
+          caption Fuente: SENA (2025)
           thead
             tr.bg-color-primario
               th.text-center Insumo
@@ -865,7 +837,7 @@
         span Tipos de elásticos
       .tabla-a.color-acento-contenido
         table(alt="Tabla con dos filas que describen tipos de elásticos según insumo, característica, uso, tipos y ejemplos. Se distingue entre banda plana para cintura o puños y cordón elástico para ajustes en prendas o accesorios.")
-          caption Fuente: SENA, (2025)
+          caption Fuente: SENA (2025)
           thead
             tr.bg-color-primario
               th.text-center Insumo
@@ -884,7 +856,7 @@
               td Elástico
               td Hilo tubular elástico, estrecho y con gran capacidad de estiramiento.
               td Ajuste en prendas y accesorios.
-              td #[em Lycra, spandex], goma natural.
+              td #[em Licra, spandex], goma natural.
               td Cordón de capucha; ajuste de bolsa de cintura.
 
     .subt2.mb-4(data-aos="fade")    
@@ -907,7 +879,7 @@
         span Tipos de velcros y cierres de contacto
       .tabla-a.color-acento-contenido
         table(alt="Tabla con tres filas que describen tipos de velcro y cierres de contacto, organizados por insumo, característica, uso, tipos y ejemplos. Incluye versiones con gancho rígido, bucle suave y soporte combinado, utilizados en prendas, bolsos y equipos.")
-          caption Fuente: SENA, (2025)
+          caption Fuente: SENA (2025)
           thead
             tr.bg-color-primario
               th Insumo
@@ -1104,7 +1076,7 @@
         span Tipos de lentejuelas y pedrería
       .tabla-a.color-acento-contenido
         table(alt="Cuadro con dos categorías: lentejuelas y pedrería. Cada una presenta tipos, características, uso en prendas femeninas y ejemplos. Se destacan acabados reflectantes, iridiscentes, y aplicaciones decorativas en blusas, vestidos y chaquetas.")
-          caption Fuente: SENA, (2025)
+          caption Fuente: SENA (2025)
           thead
             tr.bg-color-primario
               th Categoría
@@ -1158,7 +1130,7 @@
         span Tipos de apliques y parches
       .tabla-a.color-acento-contenido
         table(alt="Tabla con dos categorías: apliques y parches. Cada fila presenta tipo, características, uso en prendas femeninas y ejemplos. Se describen bordados, encajes, cuero, impresiones y materiales como silicona para refuerzo o decoración en prendas.")
-          caption Fuente: SENA, (2025)
+          caption Fuente: SENA (2025)
           thead
             tr.bg-color-primario
               th Categoría 
@@ -1200,7 +1172,7 @@
               td Zonas de alto desgaste como rodillas y codos.
               td #[em Leggings] con parches de silicona en rodillas.
 
-    .mb-1
+    .bg-2.p-4.mb-1
       .titulo-sexto.color-acento-contenido.mb-2
         h5 Figura 56.
         span Parches / apliques
@@ -1232,7 +1204,7 @@
         span Tipos de ojales y presillas
       .tabla-a.color-acento-contenido
         table(alt="Tabla con cuatro filas que describe tipos de ojales y presillas, detallando características, uso en prendas femeninas y ejemplos. Se incluyen aberturas en tejido, piezas metálicas o plásticas, y lazos de hilo o cinta aplicados en camisas, vestidos o chaquetas.")
-          caption Fuente: SENA, (2025)
+          caption Fuente: SENA (2025)
           thead
             tr.bg-color-primario
               th.text-center Tipo
@@ -1267,17 +1239,14 @@
           h5 Figura 57.
           span Ojal cortado y rematado
         figure.mb-3  
-          img(src='@/assets/curso/temas/t3/fig57.png', alt='Proceso de confección de un ojal a mano mediante corte, refuerzo de bordes, pespunte alrededor y remate final para asegurar resistencia y acabado limpio.')
-        figcaption Fuente: Patrones de costura. (s. f.). 
+          img(src='@/assets/curso/temas/t3/fig57.svg', alt='Proceso de confección de un ojal a mano mediante corte, refuerzo de bordes, pespunte alrededor y remate final para asegurar resistencia y acabado limpio.')        
       .col-lg-6.col-md-6.col-10.mb-4.mb-lg-0
         .titulo-sexto.color-acento-contenido.mb-2
           h5 Figura 58.
           span Presilla de hilo
         figure.mb-3  
           img(src='@/assets/curso/temas/t3/fig58.png', alt='Una presilla de hilo en forma curvada con un botón.')
-        figcaption Fuente: 
-          a(href="https://www.elbauldelacosturera.com/2009/02/como-elaborar-las-presillas-con-hilo.html" target="_blank") https://www.elbauldelacosturera.com/2009/02/como-elaborar-las-presillas-con-hilo.html
-       
+        
 
     .subt.mb-4(data-aos="fade")
       img(src="@/assets/curso/temas/t4/subt.svg")
@@ -1297,7 +1266,7 @@
         span Tipos de forros y cintas de hombro
       .tabla-a.color-acento-contenido
         table(alt="Tabla que presenta cuatro categorías de tipos de forros y cintas, descritas con características, aplicabilidad y ejemplo en prendas.")
-          caption Fuente: SENA, (2025)
+          caption Fuente: SENA (2025)
           thead
             tr.bg-color-primario
               th.text-center Tipo

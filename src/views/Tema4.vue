@@ -73,20 +73,20 @@
           figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad. Paso 2. Limpieza y orden del puesto de trabajo.
       .row(numero="3" titulo="Paso 3")
         .col-md-4.col-lg-4
-          p Puesta a punto de máquina fileteadora con puntada de seguridad. #[br]Paso 3. Enhebrado de hilo para Looper inferior.
+          p Puesta a punto de máquina fileteadora con puntada de seguridad. #[br]Paso 3. Enhebrado de hilo para #[em Looper] inferior.
         .col-md-8.col-lg-8
           figure
             .video
               iframe(width="560" height="315" src="https://www.youtube.com/embed/0kYGQjMeHLs?si=ngGFSpDV4ZoVXS96" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad. Paso 3. Enhebrado de hilo para Looper inferior.
+          figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad. Paso 3. Enhebrado de hilo para #[em Looper] inferior.
       .row(numero="4" titulo="Paso 4")
         .col-md-4.col-lg-4
-          p Puesta a punto de máquina fileteadora con puntada de seguridad. #[br]Paso 4. Enhebrado de hilo para Looper superior.
+          p Puesta a punto de máquina fileteadora con puntada de seguridad. #[br]Paso 4. Enhebrado de hilo para #[em Looper] superior.
         .col-md-8.col-lg-8
           figure
             .video
               iframe(width="560" height="315" src="https://www.youtube.com/embed/DOG6D5bEt-Y?si=48icrefhJiWUy3vd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad. Paso 4. Enhebrado de hilo para Looper superior.
+          figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad. Paso 4. Enhebrado de hilo para #[em Looper] superior.
       .row(numero="5" titulo="Paso 5")
         .col-md-4.col-lg-4
           p Puesta a punto de máquina fileteadora con puntada de seguridad. #[br]Paso 5. Enhebrado de hilo para aguja de puntada de filete.
@@ -105,12 +105,12 @@
           figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad. Paso 6. Enhebrado de hilo para aguja de puntada de seguridad.
       .row(numero="7" titulo="Paso 7")
         .col-md-4.col-lg-4
-          p Puesta a punto de máquina fileteadora con puntada de seguridad. #[br]Paso 7. Enhebrado de hilo para Looper de puntada de seguridad.
+          p Puesta a punto de máquina fileteadora con puntada de seguridad. #[br]Paso 7. Enhebrado de hilo para #[em Looper] de puntada de seguridad.
         .col-md-8.col-lg-8
           figure
             .video
               iframe(width="560" height="315" src="https://www.youtube.com/embed/EReJD8K1U9I?si=5RyHaOvkPop5l1v0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad. Paso 7. Enhebrado de hilo para Looper de puntada de seguridad.
+          figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad. Paso 7. Enhebrado de hilo para #[em Looper] de puntada de seguridad.
       .row(numero="8" titulo="Paso 8")
         .col-md-4.col-lg-4
           p Puesta a punto de máquina fileteadora con puntada de seguridad. #[br]Paso 8. Prueba de costura.

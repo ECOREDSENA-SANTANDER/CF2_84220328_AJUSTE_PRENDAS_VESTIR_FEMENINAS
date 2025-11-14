@@ -116,27 +116,21 @@
 
     .row.justify-content-center.mb-5
       .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
-        .bg-2.p-4.mb-2
+        .bg-2.p-4
           .titulo-sexto.color-acento-contenido
             h5 Figura 1.
             span Máquina de coser familiar
           .row.justify-content-center
-            .col-lg-8.col-md-9
-              figure.mb-3  
-                img(src='@/assets/curso/temas/t1/fig1.png', alt='Máquina de coser de uso doméstico con diseño compacto. Tiene estructura rectangular, dos perillas circulares al frente y una palanca de aguja en el costado izquierdo. Incluye base plana para apoyar la tela y brazo libre para costuras tubulares.')
-        figcaption Fuente: 
-          a(href="https://flamingo.vteximg.com.br/arquivos/ids/174362-412-528/7393033099411--1-.jpg?v=637257653012400000" target="_blank") https://flamingo.vteximg.com.br/arquivos/ids/174362-412-528/7393033099411--1-.jpg?v=637257653012400000     
+            .col-lg-9.col-md-9
+              figure 
+                img(src='@/assets/curso/temas/t1/fig1.png', alt='Máquina de coser de uso doméstico con diseño compacto. Tiene estructura rectangular, dos perillas circulares al frente y una palanca de aguja en el costado izquierdo. Incluye base plana para apoyar la tela y brazo libre para costuras tubulares.')       
       .col-lg-6.mb-4.mb-lg-0(data-aos="fade-left")
-        .bg-2.p-4.mb-2
+        .bg-2.p-4.h-100
           .titulo-sexto.color-acento-contenido.mb-lg-5
             h5 Figura 2.
             span Tipos de costura maquina familiar
-          .row.justify-content-center.py-lg-4
-            .col-lg-11.col-md-9
-              figure.mb-3.py-lg-5
-                img(src='@/assets/curso/temas/t1/fig2.svg', alt='Conjunto de ocho gráficos lineales identificados con letras de la A a la H. Cada uno representa un tipo de puntada distinta: la primera es recta, las siguientes varían en formas de zigzag, ondas y combinaciones simétricas. Están dispuestas horizontalmente en línea.')
-        figcaption Fuente: 
-          a(href="https://n9.cl/bwkob" target="_blank") https://n9.cl/bwkob
+          figure
+            img(src='@/assets/curso/temas/t1/fig2-1.svg', alt='Conjunto de ocho gráficos lineales identificados con letras de la A a la H. Cada uno representa un tipo de puntada distinta: la primera es recta, las siguientes varían en formas de zigzag, ondas y combinaciones simétricas. Están dispuestas horizontalmente en línea.')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
@@ -145,7 +139,7 @@
           span Características de una máquina familiar.
         .tabla-a.color-acento-contenido
           table(alt="Tabla con dos columnas. La primera contiene seis características de una máquina familiar: velocidad, potencia, portabilidad, lubricación, materiales y diversidad de puntadas. La segunda columna describe cada una, indicando que es un equipo de baja velocidad y potencia, portátil, de mantenimiento manual, fabricado principalmente con materiales plásticos y que ofrece funciones básicas de costura.")
-            caption Fuente: SENA, (2025)
+            caption Fuente: SENA (2025)
             thead
               tr.bg-color-primario
                 th.w-25 Característica
@@ -196,12 +190,12 @@
           figure
             img(src='@/assets/curso/temas/t1/fig3.png', alt='Máquina de coser semiindustrial con controles frontales de puntada, base amplia y brazo libre para confección de piezas tubulares y trabajos continuos.')
       .col-lg-8(data-aos="fade-left")
-        .titulo-sexto.color-acento-contenido
+        .titulo-sexto.color-acento-contenido.mb-3
           h5 Tabla 2.
           span Características de una máquina semiindustrial
         .tabla-a.color-acento-contenido
           table(alt="Tabla con dos columnas. La primera enumera características de una máquina semiindustrial: velocidad, potencia, lubricación, diversidad de puntadas y ámbito de uso. La segunda describe cada una, señalando que la máquina opera a una velocidad intermedia, tiene potencia media para coser varias capas, utiliza lubricación manual o automática, realiza puntadas básicas y es adecuada para talleres con producción moderada.")
-            caption Fuente: SENA, (2025)
+            caption Fuente: SENA (2025)
             thead
               tr.bg-color-primario
                 th.w-25 Característica
@@ -241,21 +235,19 @@
 
     .row.justify-content-center.mb-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
-        .bg-2.p-4.mb-3
+        .bg-2.p-4 
           .titulo-sexto.color-acento-contenido
             h5 Figura 4.
             span Máquina fileteadora industrial
-          figure.py-lg-5
+          figure
             img(src='@/assets/curso/temas/t1/fig4.png', alt='Máquina industrial con diseño robusto y estructura compacta. Dispone de múltiples tensores en la parte superior para controlar hilos, área de corte lateral integrada y base ancha con ventilación inferior. Indicada para procesos de sobrehilado o remate de bordes.')
-        figcaption Fuente: 
-          a(href="https://maquinasparaconfeccion.com/wp-content/uploads/2018/01/KT-757.jpg" target="_blank") https://maquinasparaconfeccion.com/wp-content/uploads/2018/01/KT-757.jpg
       .col-lg-8(data-aos="fade-left")
-        .titulo-sexto.color-acento-contenido
+        .titulo-sexto.color-acento-contenido.mb-3
           h5 Tabla 3.
           span Características de una máquina industrial
         .tabla-a.color-acento-contenido
           table(alt="Tabla con dos columnas. La primera presenta características de máquinas industriales: velocidad, potencia, lubricación, tipos de máquinas y ámbito de uso. La segunda columna especifica que operan a velocidades muy altas, tienen gran potencia, usan sistemas de lubricación automática y ofrecen variedad de funciones especializadas.")
-            caption Fuente: SENA, (2025)
+            caption Fuente: SENA (2025)
             thead
               tr.bg-color-primario
                 th.w-25 Característica
@@ -314,29 +306,23 @@
             span Máquina botonadora
           figure.px-lg-3 
             img(src='@/assets/curso/temas/t1/fig6.png', alt='Máquina industrial de estructura vertical, diseñada para realizar ojales automatizados. Posee un cabezal compacto, área de costura delimitada con prensa y alimentación precisa de tela. Se encuentra integrada a una mesa de trabajo con panel digital auxiliar.')
-        figcaption Fuente: 
-          a(href="https://amexicol.com/producto/maquina-botonadora-electronica-juki/" target="_blank") https://amexicol.com/producto/maquina-botonadora-electronica-juki/
-
+        
     .row.justify-content-center.mb-3
       .col-lg-6.mb-3(fade="fade-right")
-        .bg-2.p-3.mb-2
+        .bg-2.p-3.mb-2.h-100
           .titulo-sexto.color-acento-contenido
             h5 Figura 7.
             span Máquina presilladora
           figure 
             img.py-lg-3(src='@/assets/curso/temas/t1/fig7.png', alt='Máquina industrial con estructura compacta. Está montada sobre una mesa de trabajo y equipada con brazo prensatelas automatizado, controles de tensión visibles y guía para tela. Dispone de mecanismos reforzados para realizar costuras precisas y repetitivas en serie.')    
-        figcaption Fuente: 
-          a(href="https://amexicol.com/producto/presilladora-electronica-siruba/" target="_blank") https://amexicol.com/producto/presilladora-electronica-siruba/      
       .col-lg-6.mb-3(data-aos="fade-left")
-        .bg-2.p-3.mb-2
+        .bg-2.p-3.mb-2.h-100
           .titulo-sexto.color-acento-contenido
             h5 Figura 8.
             span Máquina encauchadora
           figure 
             img.py-lg-3.px-lg-2(src='@/assets/curso/temas/t1/fig8.png', alt='Máquina industrial recubridora diseñada para unir y reforzar costuras en prendas elásticas. Cuenta con múltiples portaconos para hilos, varias agujas alineadas en el cabezal y sistema de alimentación inferior. Su base plana facilita el trabajo en telas ligeras o medianamente gruesas.')
-        figcaption Fuente: 
-          a(href="https://amexicol.com/producto/encauchadora-mecanica-tres-agujas-pegasus/" target="_blank") https://amexicol.com/producto/encauchadora-mecanica-tres-agujas-pegasus/
-
+        
     .bg-1.mb-4.p-4(data-aos="fade")
       p.mb-0 Los cabezotes de las máquinas de confección industrial constituyen la estructura mecánica principal que integra y soporta los sistemas responsables de la formación de la puntada. Su diseño responde tanto a criterios funcionales como estructurales, y se compone de cuatro secciones fundamentales:
 
@@ -599,7 +585,7 @@
         .bg-2.mb-2.px-lg-4.p-3
           figure
             img(src='@/assets/curso/temas/t1/fig10.svg', alt='Representa el funcionamiento del diente de arrastre en una máquina de coser. Se ilustra cómo las puntas en forma de sierra del componente hacen contacto con el tejido en su parte inferior, generando fricción para desplazarlo de manera controlada durante el proceso de costura.')
-        figcaption Fuente: SENA, (2021)
+        figcaption Fuente: SENA (2021)
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
@@ -622,7 +608,7 @@
         .bg-2.mb-2.px-lg-4
           figure
             img(src='@/assets/curso/temas/t1/fig11.svg', alt='Líneas en zigzag se alternan en la parte inferior, mientras líneas curvas desde la parte superior descienden y penetran en los vértices del zigzag, generando una secuencia continua sobre una base rectangular.')
-        figcaption Fuente: SENA, (2021)
+        figcaption Fuente: SENA (2021)
       .col-lg-5(data-aos="fade-left")
         .bg-1.tarjeta.p-4
           p.mb-0 Cuando la separación entre dientes es reducida y se utiliza un material de grosor elevado, los dientes no logran agarrar el tejido con firmeza. Como resultado, la tela patina durante el avance, provocando deslizamientos irregulares, acumulaciones de material (“pega”) y posible rasgado o deformación de la superficie. Para evitar estas fallas, es fundamental seleccionar un diente cuya densidad y perfil se correspondan con el espesor y la resistencia del tejido, garantizando así un transporte seguro y preservando la integridad de la prenda.
@@ -637,7 +623,7 @@
             .col-lg-8
               figure
                 img(src='@/assets/curso/temas/t1/fig12.svg', alt='Dos líneas paralelas recorren la parte superior de la imagen, mientras una secuencia diagonal en forma de zigzag se desarrolla entre una base rectangular inferior y una línea recta intermedia, generando un patrón uniforme y cerrado.')
-        figcaption Fuente: SENA, (2021)
+        figcaption Fuente: SENA (2021)
 
     .subt.mb-4(data-aos="fade")
       img(src="@/assets/curso/temas/t4/subt.svg")
@@ -687,14 +673,14 @@
           ul.lista-ul--color.color-primario.fa-lista
             li
               i.far.fa-circle
-              span.mb-0 #[strong Calibre:] corresponde al diámetro de la caña y se selecciona según el grosor del tejido, por ejemplo, calibres 65 - 70 para lycras, 70 - 90 para tejidos de punto y 100 - 125 para dril o mezclilla.
+              span.mb-0 #[strong Calibre:] corresponde al diámetro de la caña y se selecciona según el grosor del tejido, por ejemplo, calibres 65 - 70 para licras, 70 - 90 para tejidos de punto y 100 - 125 para dril o mezclilla.
       .col-lg-4.mb-4.mb-lg-0
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Tabla 4.
           span Tipos de calibres en agujas
         .tabla-a.color-acento-contenido.mw-300.ma-p
           table(alt="Tabla de tres columnas con información de equivalencias numéricas para calibres de aguja. La primera columna presenta valores del sistema métrico, la segunda los valores del sistema inglés y la tercera la conversión en milímetros. Los valores avanzan progresivamente desde 70 a 120 en el sistema métrico, y desde 0,7 a 1,2 mm en equivalencia.")
-            caption Fuente: SENA, (2021)
+            caption Fuente: SENA (2021)
             thead
               tr.bg-color-primario
                 th.w-25.text-center Métrico
@@ -737,7 +723,7 @@
           span Tipos de aguja según máquina
         .tabla-a.color-acento-contenido.mw-300.ma-p
           table(alt="Tabla con dos columnas. La primera columna contiene el nombre de diferentes tipos de máquinas de coser, como planas, recubridora, zigzag, dos agujas y fileteadora. La segunda columna indica el tipo de aguja correspondiente a cada máquina, con referencias como “16 x 231 cabo delgado”, “135 x 5 cabo grueso”, “B63” y “B27”.")
-            caption Fuente: SENA, (2021)
+            caption Fuente: SENA (2021)
             thead
               tr.bg-color-primario
                 th.w-25 Máquina

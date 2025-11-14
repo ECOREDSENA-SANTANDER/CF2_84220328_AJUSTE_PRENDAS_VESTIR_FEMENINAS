@@ -94,7 +94,7 @@
                 .col-md-6.col-lg-5
                   .titulo-sexto.color-acento-contenido.mb-2
                     h5 Figura 17.                    
-                    span Tijeras de corte
+                    span Tijeras de confección
                   figure.mb-2
                     img(src='@/assets/curso/temas/t2/fig17.png', alt='Tres tijeras de sastre con mangos grandes y hojas alargadas están dispuestas sobre una superficie plana, acompañadas por hilos enrollados en carretes de madera, utilizados en trabajos de confección.')
               .row.justify-content-center.align-items-center(titulo="Tijeras de precisión y bordes")
@@ -107,8 +107,6 @@
                     span Tijeras de precisión
                   figure.mb-2
                     img(src='@/assets/curso/temas/t2/fig18.png', alt='Tijera pequeña con hojas delgadas y punta fina, diseñada para cortes precisos en labores detalladas de confección o bordado.')
-                  figcaption Fuente: 
-                    a(href="https://www.marialunarillos.com/4408-tijeras-de-precision.html" target="_blank") https://www.marialunarillos.com/4408-tijeras-de-precision.html  
               .row.justify-content-center.align-items-center(titulo="Cortahilos y cúter de tela")
                 .col-md-6.col-lg-5
                   h4 Cortahilos y cúter de tela
@@ -207,8 +205,6 @@
                     span Punzón
                   figure.mb-2
                     img(src='@/assets/curso/temas/t2/fig25.png', alt='Herramienta compuesta por un mango ergonómico de madera y una punta metálica afilada; se emplea para perforar o marcar con precisión materiales como tela o cuero.')
-                  figcaption Fuente: 
-                    a(href="https://wuto.com/wp-content/uploads/7701_PUNZON_1.webp" target="_blank") https://wuto.com/wp-content/uploads/7701_PUNZON_1.webp 
               .row.justify-content-center.align-items-center(titulo="")
                 .col-md-6.col-lg-5
                   h4 Cepillos y rodillos quitapelusas
