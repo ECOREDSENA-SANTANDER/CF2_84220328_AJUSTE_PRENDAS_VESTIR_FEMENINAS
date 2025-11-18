@@ -1017,8 +1017,6 @@
               span Encaje bolillos
             figure.mb-2  
               img(src='@/assets/curso/temas/t3/fig52.png', alt='Cintas de encaje dispuestas en paralelo, con bordes ondulados y motivos calados de flores y líneas, sobre fondo liso.')
-            figcaption Fuente: 
-              a(href="https://www.telasyropas.com/tipos-de-encaje/#24_Encaje_de_bolillos" target="_blank") https://www.telasyropas.com/tipos-de-encaje/#24_Encaje_de_bolillos
           .col-10.col-md-6.col-lg-7
             ul.lista-ul--color.fa-lista
               li.mb-4

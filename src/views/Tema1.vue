@@ -408,9 +408,7 @@
                 tr
                   td 12.
                   td Pedal.
-    figcaption Fuente: 
-      a(href="https://milmoldes.blogspot.com/2008/08/como-usar-una-mquina-de-coser.html" target="_blank") https://milmoldes.blogspot.com/2008/08/como-usar-una-mquina-de-coser.html
-
+    
 
     Separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
