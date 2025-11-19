@@ -1243,7 +1243,7 @@
           h5 Figura 58.
           span Presilla de hilo
         figure.mb-3  
-          img(src='@/assets/curso/temas/t3/fig58.png', alt='Una presilla de hilo en forma curvada con un botón.')
+          img(src='@/assets/curso/temas/t3/fig58.png', alt='Se aprecia una pieza de tela con una presilla elaborada en hilo, ubicada junto al ojal destinado para un botón plano de forma ligeramente cuadrada. La escena destaca la función de la presilla como sistema de sujeción complementario para el cierre de la prenda.')
         
 
     .subt.mb-4(data-aos="fade")
