@@ -856,7 +856,7 @@
               td Elástico
               td Hilo tubular elástico, estrecho y con gran capacidad de estiramiento.
               td Ajuste en prendas y accesorios.
-              td #[em Licra, spandex], goma natural.
+              td Licra, #[em spandex], goma natural.
               td Cordón de capucha; ajuste de bolsa de cintura.
 
     .subt2.mb-4(data-aos="fade")    
